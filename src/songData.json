@@ -1,0 +1,2836 @@
+[
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_FMjpg_UX1000_.jpg",
+    "play": "https://music.youtube.com/watch?v=yl3TsqL0ZPw&si=atxxQaNV63Atm8pn",
+    "title": "Bohemian Rhapsody",
+    "singer": "Queen",
+    "year": 1975,
+    "genre": "Rock",
+    "emotion": "surprise"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/The_Final_Countdown_single.png",
+    "play": "https://music.youtube.com/watch?v=4hj8M8XZpis&si=3LV5jsYWwbDV2-Yf",
+    "title": "The Final Countdown",
+    "singer": "Europe",
+    "year": 1986,
+    "genre": "Rock",
+    "emotion": "surprise"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+    "play": "https://music.youtube.com/watch?v=Z85lxckrtzg&si=YV8AFyRp7m5t-qh0",
+    "title": "Thriller",
+    "singer": "Michael Jackson",
+    "year": 1982,
+    "genre": "Pop",
+    "emotion": "surprise"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000049818765-t3rdcb-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=xOazTYPrt64&si=FHHuolowmEFCMS8y",
+    "title": "Somebody That I Used to Know",
+    "singer": "Gotye ft. Kimbra",
+    "year": 2011,
+    "genre": "Indie Pop",
+    "emotion": "surprise"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/Hey_Ya_single_cover.png",
+    "play": "https://music.youtube.com/watch?v=Jx_O6PHdWww&si=Usb6ZyRRgTZOk5S3",
+    "title": "Hey Ya!",
+    "singer": "Outkast",
+    "year": 2003,
+    "genre": "Hip Hop",
+    "emotion": "surprise"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/Mark_Ronson_-_Uptown_Funk_%28feat._Bruno_Mars%29_%28Official_Single_Cover%29.png",
+    "play": "https://music.youtube.com/watch?v=tYvFa2ARD24&si=5M-qsSqCqrZq5Fyl",
+    "title": "Uptown Funk",
+    "singer": "Mark Ronson ft. Bruno Mars",
+    "year": 2014,
+    "genre": "Funk",
+    "emotion": "surprise"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/A-ha_take_on_me-1stcover.jpg",
+    "play": "https://music.youtube.com/watch?v=HzdD8kbDzZA&si=3-DC0dQoamb5xAR-",
+    "title": "Take on Me",
+    "singer": "a-ha",
+    "year": 1984,
+    "genre": "Synth-pop",
+    "emotion": "surprise"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BYzM1NWY0MDQtMTU2NS00NGQ4LTk2Y2YtMDI1MTdkOTEwZWI3XkEyXkFqcGdeQXVyNjc2NTQzMjU@._V1_.jpg",
+    "play": "https://music.youtube.com/watch?v=dEOmR6b0IqM&si=CtZwjFJl_zM4os1c",
+    "title": "What is Love",
+    "singer": "Haddaway",
+    "year": 1993,
+    "genre": "Eurodance",
+    "emotion": "surprise"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a8/I_Want_To_Break_Free.jpg",
+    "play": "https://music.youtube.com/watch?v=8r3FaCiVFbA&si=nfHcepfjW3-vM4b7",
+    "title": "I Want to Break Free",
+    "singer": "Queen",
+    "year": 1984,
+    "genre": "Rock",
+    "emotion": "surprise"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/34/RickAstleyNeverGonnaGiveYouUp7InchSingleCover.jpg",
+    "play": "https://music.youtube.com/watch?v=lYBUbBu4W08&si=EsCJA_6aqG9OPJS3",
+    "title": "Never Gonna Give You Up",
+    "singer": "Rick Astley",
+    "year": 1987,
+    "genre": "Pop",
+    "emotion": "surprise"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/4149kbj87SL._UF1000,1000_QL80_.jpg",
+    "play": "https://music.youtube.com/watch?v=fOZ-MySzAac&si=asQ7OZGMpklr0z1s",
+    "title": "Lean on Me",
+    "singer": "Bill Withers",
+    "year": 1972,
+    "genre": "Soul",
+    "emotion": "relief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/98/DontWorryBe.jpg",
+    "play": "https://music.youtube.com/watch?v=AFDOSq6Wxa0&si=Po0vwfuFaxOwzqht",
+    "title": "Don't Worry, Be Happy",
+    "singer": "Bobby McFerrin",
+    "year": 1988,
+    "genre": "Reggae",
+    "emotion": "relief"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BYjNkNmVlNjMtYWM3Ny00OGEwLWJkMzAtZWFlNDE3NzI4MDY0XkEyXkFqcGdeQXVyNDE4OTY5NzI@._V1_.jpg",
+    "play": "https://music.youtube.com/watch?v=eEof53s5lmo&si=x1aQ-UtOWbG60_pH",
+    "title": "I Will Survive",
+    "singer": "Gloria Gaynor",
+    "year": 1978,
+    "genre": "Disco",
+    "emotion": "relief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Elton_John_StillStanding.jpg",
+    "play": "https://music.youtube.com/watch?v=Ye9hGotPPVk&si=JbWX4_AQetJfJlq-",
+    "title": "I'm Still Standing",
+    "singer": "Elton John",
+    "year": 1983,
+    "genre": "Pop",
+    "emotion": "relief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b1/Coldplay_-_Fix_You.jpg",
+    "play": "https://music.youtube.com/watch?v=Oncu0bgdcXU&si=qcdAWj2mc_OY7Kqv",
+    "title": "Fix You",
+    "singer": "Coldplay",
+    "year": 2005,
+    "genre": "Alternative Rock",
+    "emotion": "relief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/BetterDays_album_cover.jpg/220px-BetterDays_album_cover.jpg",
+    "play": "https://music.youtube.com/watch?v=hHPhBLJIC0g&si=q15h87Qcl5T3-AV6",
+    "title": "Better Days",
+    "singer": "Goo Goo Dolls",
+    "year": 2005,
+    "genre": "Alternative Rock",
+    "emotion": "relief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/ef/ABBA_-_Dancing_Queen.png",
+    "play": "https://music.youtube.com/watch?v=YkLLcIKhJ64&si=FbUUQGy7TecTrvEt",
+    "title": "Dancing Queen",
+    "singer": "ABBA",
+    "year": 1976,
+    "genre": "Disco",
+    "emotion": "relief"
+  },
+  {
+    "image": "https://i.redd.it/gwd167wb937c1.jpeg",
+    "play": "https://music.youtube.com/watch?v=xUNqsfFUwhY&si=Me23ww5gXJjF3Ioh",
+    "title": "Here Comes the Sun",
+    "singer": "The Beatles",
+    "year": 1969,
+    "genre": "Rock",
+    "emotion": "relief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Walkingonsunshine.jpg",
+    "play": "https://music.youtube.com/watch?v=HmR2IZjuMVc&si=6sTzQac4f-78K0Pm",
+    "title": "Walking on Sunshine",
+    "singer": "Katrina and the Waves",
+    "year": 1983,
+    "genre": "Pop Rock",
+    "emotion": "relief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Miley_Cyrus_-_The_Climb.png",
+    "play": "https://music.youtube.com/watch?v=QFAZRLrprhs&si=kFouUrkiIFke5UOC",
+    "title": "The Climb",
+    "singer": "Miley Cyrus",
+    "year": 2009,
+    "genre": "Pop",
+    "emotion": "relief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8c/Green_Day_-_Wake_Me_Up_When_September_Ends_cover.jpg",
+    "play": "https://music.youtube.com/watch?v=ulRXvH8VOl8&si=1S5hwMVBd7ENkVo3",
+    "title": "Wake Me Up When September Ends",
+    "singer": "Green Day",
+    "year": 2004,
+    "genre": "Alternative Rock",
+    "emotion": "realization"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/72/R.E.M._-_Losing_My_Religion.jpg",
+    "play": "https://music.youtube.com/watch?v=Efa6BAWPm9o&si=cyx7R1GUimloCjqS",
+    "title": "Losing My Religion",
+    "singer": "R.E.M.",
+    "year": 1991,
+    "genre": "Alternative Rock",
+    "emotion": "realization"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Green_Day_-_Boulevard_of_Broken_Dreams_cover.jpg/220px-Green_Day_-_Boulevard_of_Broken_Dreams_cover.jpg",
+    "play": "https://music.youtube.com/watch?v=Rp81-_zPX0c&si=3hyfaM21LsMppVsw",
+    "title": "Boulevard of Broken Dreams",
+    "singer": "Green Day",
+    "year": 2004,
+    "genre": "Alternative Rock",
+    "emotion": "realization"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/91sLchfSmpL._UF1000,1000_QL80_.jpg",
+    "play": "https://music.youtube.com/watch?v=yl3TsqL0ZPw&si=5HMyGYoOhmxyfqO6",
+    "title": "Bohemian Rhapsody",
+    "singer": "Queen",
+    "year": 1975,
+    "genre": "Rock",
+    "emotion": "realization"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/SoundsSilence.jpg",
+    "play": "https://music.youtube.com/watch?v=Nn0Gf8e_sHI&si=dXyPDbFEqN4P8UUL",
+    "title": "The Sound of Silence",
+    "singer": "Simon & Garfunkel",
+    "year": 1964,
+    "genre": "Folk Rock",
+    "emotion": "realization"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c8/What_Goes_Around..._Comes_Around.png",
+    "play": "https://music.youtube.com/watch?v=qKBMyal0ILA&si=7Rcr8JIEZyJuDPfo",
+    "title": "What Goes Around... Comes Around",
+    "singer": "Justin Timberlake",
+    "year": 2006,
+    "genre": "Pop",
+    "emotion": "realization"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000317701167-dl1eyn-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=gSS2IgnnBo8&si=6oEmb4H88tGzsgGB",
+    "title": "Hurt",
+    "singer": "Johnny Cash",
+    "year": 2002,
+    "genre": "Country",
+    "emotion": "realization"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/18/R.E.M._-_Everybody_Hurts.jpg",
+    "play": "https://music.youtube.com/watch?v=tKRznjaIIyw&si=QPKC7yZ59s9BK2s_",
+    "title": "Everybody Hurts",
+    "singer": "R.E.M.",
+    "year": 1992,
+    "genre": "Alternative Rock",
+    "emotion": "realization"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/20/TFF_Mad_World.jpg",
+    "play": "https://music.youtube.com/watch?v=vlRAstW6cCQ&si=SxQYa_AlqXR2OVY5",
+    "title": "Mad World",
+    "singer": "Tears for Fears",
+    "year": 1982,
+    "genre": "New Wave",
+    "emotion": "realization"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000017803212-ou6twc-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=xOazTYPrt64&si=pKjrjPHKZWAAgZOA",
+    "title": "Somebody That I Used to Know",
+    "singer": "Gotye ft. Kimbra",
+    "year": 2011,
+    "genre": "Indie Pop",
+    "emotion": "realization"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/Wearethechampions.jpg",
+    "play": "https://music.youtube.com/watch?v=Gk781Z0ErmA&si=uuiSibIHi9UVvl3c",
+    "title": "We Are the Champions",
+    "singer": "Queen",
+    "year": 1977,
+    "genre": "Rock",
+    "emotion": "pride"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Survivortiger.jpg",
+    "play": "https://music.youtube.com/watch?v=S-LO6dctBms&si=c4xCpQA676P2j9sI",
+    "title": "Eye of the Tiger",
+    "singer": "Survivor",
+    "year": 1982,
+    "genre": "Rock",
+    "emotion": "pride"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/ca/Kelly_Clarkson_-_Stronger.jpg",
+    "play": "https://music.youtube.com/watch?v=ffmOr4-bbbA&si=-IHm9_Er4zZqE32V",
+    "title": "Stronger",
+    "singer": "Kelly Clarkson",
+    "year": 2011,
+    "genre": "Pop",
+    "emotion": "pride"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/18/We_Will_Rock_You_by_Queen_%281977_French_single%29.png",
+    "play": "https://music.youtube.com/watch?v=tsTH9TpxU_Y&si=EH_kXPTXj5GIA8cD",
+    "title": "We Will Rock You",
+    "singer": "Queen",
+    "year": 1977,
+    "genre": "Rock",
+    "emotion": "pride"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/ad/Lady_Gaga_-_Born_This_Way_%28single%29.png",
+    "play": "https://music.youtube.com/watch?v=fn8JP4rUP2I&si=8Ch226Uah74Fz9I5",
+    "title": "Born This Way",
+    "singer": "Lady Gaga",
+    "year": 2011,
+    "genre": "Pop",
+    "emotion": "pride"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/ee/Destiny%27s_Child_-_Survivor_%28Single%29.png",
+    "play": "https://music.youtube.com/watch?v=aVJi5jj-zl0&si=7rx_UXLrexg15D35",
+    "title": "Survivor",
+    "singer": "Destiny's Child",
+    "year": 2001,
+    "genre": "R&B",
+    "emotion": "pride"
+  },
+  {
+    "image": "https://www.udiscovermusic.com/wp-content/uploads/2020/06/GloriaG_IWillSu_CoverAr_3000DPI300RGB1000348311-scaled.jpg",
+    "play": "https://music.youtube.com/watch?v=nXMPx4DDVWM&si=M9C_5b7stR6pnvL5",
+    "title": "I Will Survive",
+    "singer": "Gloria Gaynor",
+    "year": 1978,
+    "genre": "Disco",
+    "emotion": "pride"
+  },
+  {
+    "image": "https://www.sheetmusicwarehouse.co.uk/image/crop/mw1500/mh750/4/im-coming-out-diana-ross-song.jpg",
+    "play": "https://music.youtube.com/watch?v=E2muOFNlvVk&si=EhWXk2pBDsVUPXeM",
+    "title": "I'm Coming Out",
+    "singer": "Diana Ross",
+    "year": 1980,
+    "genre": "R&B",
+    "emotion": "pride"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Christina_Aguilera_-_Fighter_%28single%29.png/220px-Christina_Aguilera_-_Fighter_%28single%29.png",
+    "play": "https://music.youtube.com/watch?v=nsRls_7T8kE&si=OM_CmFKmji7FYcTR",
+    "title": "Fighter",
+    "singer": "Christina Aguilera",
+    "year": 2002,
+    "genre": "Pop",
+    "emotion": "pride"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Michael_Jackson_-_Man_in_the_Mirror.png",
+    "play": "https://music.youtube.com/watch?v=Z9NYDgbKsBE&si=GV4h3R0-nUXyJaiU",
+    "title": "Man in the Mirror",
+    "singer": "Michael Jackson",
+    "year": 1988,
+    "genre": "Pop",
+    "emotion": "pride"
+  },
+  {
+    "image": "https://i.redd.it/gwd167wb937c1.jpeg",
+    "play": "https://music.youtube.com/watch?v=xUNqsfFUwhY&si=lxI1DEjq91IbW9L8",
+    "title": "Here Comes the Sun",
+    "singer": "The Beatles",
+    "year": 1969,
+    "genre": "Rock",
+    "emotion": "optimism"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Good_Vibrations_single.jpg",
+    "play": "https://music.youtube.com/watch?v=oMfjgQ8ptrE&si=pe4-5idMlpukb_Dr",
+    "title": "Good Vibrations",
+    "singer": "The Beach Boys",
+    "year": 1966,
+    "genre": "Pop",
+    "emotion": "optimism"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000177633455-fhzfz2-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=ABfQuZqq8wg&si=R7T2KAHsSqLVttKK",
+    "title": "Ain't No Mountain High Enough",
+    "singer": "Marvin Gaye & Tammi Terrell",
+    "year": 1967,
+    "genre": "Soul",
+    "emotion": "optimism"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Don%27t_Stop_Believin%27.jpg/220px-Don%27t_Stop_Believin%27.jpg",
+    "play": "https://music.youtube.com/watch?v=7bX76VR6oQE&si=idmQx2kXSFT3IbDA",
+    "title": "Don't Stop Believin'",
+    "singer": "Journey",
+    "year": 1981,
+    "genre": "Rock",
+    "emotion": "optimism"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Miley_Cyrus_-_The_Climb.png",
+    "play": "https://music.youtube.com/watch?v=QFAZRLrprhs&si=h-zHHRSMBWNmYooz",
+    "title": "The Climb",
+    "singer": "Miley Cyrus",
+    "year": 2009,
+    "genre": "Pop",
+    "emotion": "optimism"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Elton_John_StillStanding.jpg",
+    "play": "https://music.youtube.com/watch?v=Ye9hGotPPVk&si=iXc5Gcvsq6sDxg0E",
+    "title": "I'm Still Standing",
+    "singer": "Elton John",
+    "year": 1983,
+    "genre": "Pop",
+    "emotion": "optimism"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/U2_Beautiful_Day_Album_Cover.jpg",
+    "play": "https://music.youtube.com/watch?v=QrqPjFyM0wg&si=IuZoutdh2ab9IWdP",
+    "title": "Beautiful Day",
+    "singer": "U2",
+    "year": 2000,
+    "genre": "Rock",
+    "emotion": "optimism"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Katy_Perry_-_Roar.png",
+    "play": "https://music.youtube.com/watch?v=6nJuUdc2qNg&si=9hMvG-8VU11Rirjy",
+    "title": "Roar",
+    "singer": "Katy Perry",
+    "year": 2013,
+    "genre": "Pop",
+    "emotion": "optimism"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Bravesarab.jpg",
+    "play": "https://music.youtube.com/watch?v=tJYpZKU81lc&si=PipJzhRJGFvLcWOX",
+    "title": "Brave",
+    "singer": "Sara Bareilles",
+    "year": 2013,
+    "genre": "Pop",
+    "emotion": "optimism"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Pharrell_Williams_-_Happy.jpg/220px-Pharrell_Williams_-_Happy.jpg",
+    "play": "https://music.youtube.com/watch?v=MOWDb2TBYDg&si=FW68vt49g5CNuwR4",
+    "title": "Happy",
+    "singer": "Pharrell Williams",
+    "year": 2013,
+    "genre": "Pop",
+    "emotion": "optimism"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/96/Clocks_single.jpg",
+    "play": "https://music.youtube.com/watch?v=8Xv_Hg8o1fw&si=UI_eNxJEYW1fliJU",
+    "title": "Clocks",
+    "singer": "Coldplay",
+    "year": 2002,
+    "genre": "Alternative Rock",
+    "emotion": "neutral"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Yellow_cover_art.JPG",
+    "play": "https://music.youtube.com/watch?v=9qnqYL0eNNI&si=wiZi1KG0sxHemTlv",
+    "title": "Yellow",
+    "singer": "Coldplay",
+    "year": 2000,
+    "genre": "Alternative Rock",
+    "emotion": "neutral"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/7a/Adele_-_Someone_Like_You.png",
+    "play": "https://music.youtube.com/watch?v=XqoanTj5pNY&si=k4ePL7iQ52VujkcS",
+    "title": "Someone Like You",
+    "singer": "Adele",
+    "year": 2011,
+    "genre": "Soul",
+    "emotion": "neutral"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Sting_-_Shape_of_my_heart.jpg",
+    "play": "https://music.youtube.com/watch?v=WOwj-SDcy0w&si=T7p4xGLztyDvOOFO",
+    "title": "Shape of My Heart",
+    "singer": "Sting",
+    "year": 1993,
+    "genre": "Soft Rock",
+    "emotion": "neutral"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Green_Day_-_Boulevard_of_Broken_Dreams_cover.jpg/220px-Green_Day_-_Boulevard_of_Broken_Dreams_cover.jpg",
+    "play": "https://music.youtube.com/watch?v=gYCTXzOTnXg&si=KWbwTIwSzbeOLmjx",
+    "title": "Boulevard of Broken Dreams",
+    "singer": "Green Day",
+    "year": 2004,
+    "genre": "Alternative Rock",
+    "emotion": "neutral"
+  },
+  {
+    "image": "https://kcr.sdsu.edu/wordpress/wp-content/uploads/breezeblocks.png",
+    "play": "https://music.youtube.com/watch?v=3QZPoHdr3x4&si=LFinjjYTmt2mWIro",
+    "title": "Breezeblocks",
+    "singer": "alt-J",
+    "year": 2012,
+    "genre": "Indie Rock",
+    "emotion": "neutral"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/SoundsSilence.jpg",
+    "play": "https://music.youtube.com/watch?v=Nn0Gf8e_sHI&si=IEvDlIg2u8dbYbz3",
+    "title": "Sound of Silence",
+    "singer": "Simon & Garfunkel",
+    "year": 1964,
+    "genre": "Folk Rock",
+    "emotion": "neutral"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/18/R.E.M._-_Everybody_Hurts.jpg",
+    "play": "https://music.youtube.com/watch?v=tKRznjaIIyw&si=YmnS4NY73pwtTdxB",
+    "title": "Everybody Hurts",
+    "singer": "R.E.M.",
+    "year": 1992,
+    "genre": "Alternative Rock",
+    "emotion": "neutral"
+  },
+  {
+    "image": "https://musictalkers.com/images/joomgallery/details/gallery_2/spotifysnowpatrol11089.jpg",
+    "play": "https://music.youtube.com/watch?v=sgj04v5sDm4&si=8JxqzvKleMlQwUuO",
+    "title": "Chasing Cars",
+    "singer": "Snow Patrol",
+    "year": 2006,
+    "genre": "Alternative Rock",
+    "emotion": "neutral"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Let-her-go-by-passenger.jpg",
+    "play": "https://music.youtube.com/watch?v=B3EN7Ewwwvs&si=p7_IFBWC1CZAsQLc",
+    "title": "Let Her Go",
+    "singer": "Passenger",
+    "year": 2012,
+    "genre": "Folk Rock",
+    "emotion": "neutral"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/Can%27t_Help_Falling_in_Love_by_Elvis_Presley_US_picture_sleeve.png",
+    "play": "https://music.youtube.com/watch?v=x3X8eBGYY6U&si=T_3o5c8xQHuUbhbU",
+    "title": "Can't Help Falling in Love",
+    "singer": "Elvis Presley",
+    "year": 1961,
+    "genre": "Pop",
+    "emotion": "love"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/I_Will_Always_Love_You_by_Whitney_Houston_US_CD_single.jpg/220px-I_Will_Always_Love_You_by_Whitney_Houston_US_CD_single.jpg",
+    "play": "https://music.youtube.com/watch?v=tP0zj220CbQ&si=Hp0iiQxiaX0MO3eI",
+    "title": "I Will Always Love You",
+    "singer": "Whitney Houston",
+    "year": 1992,
+    "genre": "R&B",
+    "emotion": "love"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/88/Diana-Ross-Endless-Love.jpg",
+    "play": "https://music.youtube.com/watch?v=eT1nWfcbCIo&si=9M3AyJs7qxwdnmOk",
+    "title": "Endless Love",
+    "singer": "Diana Ross & Lionel Richie",
+    "year": 1981,
+    "genre": "Pop",
+    "emotion": "love"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71BUBGeD7iL._UF1000,1000_QL80_DpWeblab_.jpg",
+    "play": "https://music.youtube.com/watch?v=Zv8czIoAw5w&si=2omH4YNxGXNXZYKr",
+    "title": "Unchained Melody",
+    "singer": "The Righteous Brothers",
+    "year": 1965,
+    "genre": "Pop",
+    "emotion": "love"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Celine_dion-my_heart_will_go_on_s.jpg",
+    "play": "https://music.youtube.com/watch?v=pZk_YV7yqeA&si=3MwbhHvF5_SOUMo9",
+    "title": "My Heart Will Go On",
+    "singer": "Celine Dion",
+    "year": 1997,
+    "genre": "Pop",
+    "emotion": "love"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/Idontwanttomissathing.jpg",
+    "play": "https://music.youtube.com/watch?v=GLFp_C0Zi3M&si=Cx2FaGTwjrTWevFO",
+    "title": "I Don't Want to Miss a Thing",
+    "singer": "Aerosmith",
+    "year": 1998,
+    "genre": "Rock",
+    "emotion": "love"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BOTRhZDQ5NTMtZTdjYS00NDgzLTliYWEtOTM1NGFmMGVmZDRjXkEyXkFqcGdeQXVyNTk1NTMyNzM@._V1_.jpg",
+    "play": "https://music.youtube.com/watch?v=9IzKueQ2ZxY&si=j0WUd0_jD_fvG6wg",
+    "title": "Make You Feel My Love",
+    "singer": "Adele",
+    "year": 2008,
+    "genre": "Pop",
+    "emotion": "love"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Crazy_little_thing_called_love.jpg",
+    "play": "https://music.youtube.com/watch?v=BOCe62_vdzY&si=YFeXE5dknQfg1Uxw",
+    "title": "Crazy Little Thing Called Love",
+    "singer": "Queen",
+    "year": 1979,
+    "genre": "Rock",
+    "emotion": "love"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e5/03_iwantoholdyourhand.jpg",
+    "play": "https://music.youtube.com/watch?v=jenWdylTtzs&si=qvRN-fglE-eD7GDL",
+    "title": "I Want to Hold Your Hand",
+    "singer": "The Beatles",
+    "year": 1963,
+    "genre": "Rock",
+    "emotion": "love"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Wonderful_Tonight_cover.jpg",
+    "play": "https://music.youtube.com/watch?v=Pu5c4aEg3NM&si=dP4imhunme4bym_2",
+    "title": "Wonderful Tonight",
+    "singer": "Eric Clapton",
+    "year": 1977,
+    "genre": "Soft Rock",
+    "emotion": "love"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Don%27t_Stop_Believin%27.jpg/220px-Don%27t_Stop_Believin%27.jpg",
+    "play": "https://music.youtube.com/watch?v=7bX76VR6oQE&si=ahoJ-ZtgINUdCIFv",
+    "title": "Don't Stop Believin'",
+    "singer": "Journey",
+    "year": 1981,
+    "genre": "Rock",
+    "emotion": "joy"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Pharrell_Williams_-_Happy.jpg/220px-Pharrell_Williams_-_Happy.jpg",
+    "play": "https://music.youtube.com/playlist?list=OLAK5uy_kLY_6XBzZgX3koWIkgpzoMdlP15kBVpVo&si=jOtYWrChS0bBZLyQ",
+    "title": "Happy",
+    "singer": "Pharrell Williams",
+    "year": 2013,
+    "genre": "Pop",
+    "emotion": "joy"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000203903601-81vfv2-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=6p3E7OMw52g&si=VBrINtifLJcua0qb",
+    "title": "Can't Stop the Feeling!",
+    "singer": "Justin Timberlake",
+    "year": 2016,
+    "genre": "Pop",
+    "emotion": "joy"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-zs8uLIRF6CcMA3jE-ziWKVQ-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=Wnn6M1nNiKQ&si=QwzLGNxJKWeisHbH",
+    "title": "I Gotta Feeling",
+    "singer": "The Black Eyed Peas",
+    "year": 2009,
+    "genre": "Pop",
+    "emotion": "joy"
+  },
+  {
+    "image": "https://images.genius.com/52022f8df73214ce0926770a728b21dd.479x479x1.jpg",
+    "play": "https://music.youtube.com/watch?v=HmR2IZjuMVc&si=3IB8w_hKz1xV-QJE",
+    "title": "Walking on Sunshine",
+    "singer": "Katrina and the Waves",
+    "year": 1983,
+    "genre": "Pop Rock",
+    "emotion": "joy"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e5/03_iwantoholdyourhand.jpg",
+    "play": "https://music.youtube.com/watch?v=v1HDt1tknTc&si=Am46SxwgJXQyQdl1",
+    "title": "I Want to Hold Your Hand",
+    "singer": "The Beatles",
+    "year": 1963,
+    "genre": "Rock",
+    "emotion": "joy"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b0/The_Monkees_single_02_I%27m_a_Believer.jpg",
+    "play": "https://music.youtube.com/watch?v=4PQAqprjOuA&si=64yoAFnzBRjigYTD",
+    "title": "I'm a Believer",
+    "singer": "The Monkees",
+    "year": 1966,
+    "genre": "Rock",
+    "emotion": "joy"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/BrownEyedGirl.jpg",
+    "play": "https://music.youtube.com/watch?v=yZ-VUnIehi8&si=S1QFGSojS46ppJZa",
+    "title": "Brown Eyed Girl",
+    "singer": "Van Morrison",
+    "year": 1967,
+    "genre": "Folk Rock",
+    "emotion": "joy"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-3b6ZyUJG1NbQJSmV-3IrTlg-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=3cKtSlsYVEU&si=1t48wonVzHYhc-1I",
+    "title": "September",
+    "singer": "Earth, Wind & Fire",
+    "year": 1978,
+    "genre": "R&B",
+    "emotion": "joy"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-RyYJLoe8TCy4PwcC-qYLelQ-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=iSLwVaebsJg&si=sANI7EdQiyGxNJ_9",
+    "title": "I Feel Good",
+    "singer": "James Brown",
+    "year": 1965,
+    "genre": "Funk",
+    "emotion": "joy"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/72/Didothankyou.jpg",
+    "play": "https://music.youtube.com/watch?v=Yj8ZufvGfvk&si=zKjgBrxl4b9b6lmq",
+    "title": "Thank You",
+    "singer": "Dido",
+    "year": 1998,
+    "genre": "Pop",
+    "emotion": "gratitude"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/I_Will_Always_Love_You_by_Whitney_Houston_US_CD_single.jpg/220px-I_Will_Always_Love_You_by_Whitney_Houston_US_CD_single.jpg",
+    "play": "https://music.youtube.com/watch?v=tP0zj220CbQ&si=_WHdKkwSU2CxwXxY",
+    "title": "I Will Always Love You",
+    "singer": "Whitney Houston",
+    "year": 1992,
+    "genre": "R&B",
+    "emotion": "gratitude"
+  },
+  {
+    "image": "https://www.adelinapiano.com/wp-content/uploads/edd/2016/10/Frank-Sinatra-My-Way.jpg",
+    "play": "https://music.youtube.com/watch?v=qQzdAsjWGPg&si=mFtvB8c5LStciK9j",
+    "title": "My Way",
+    "singer": "Frank Sinatra",
+    "year": 1969,
+    "genre": "Traditional Pop",
+    "emotion": "gratitude"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/Hero_Mariah_Carey.png",
+    "play": "https://music.youtube.com/watch?v=aVQKVqYvpHs&si=HZPK3yHrCh81gVsP",
+    "title": "Hero",
+    "singer": "Mariah Carey",
+    "year": 1993,
+    "genre": "R&B",
+    "emotion": "gratitude"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Bette_Midler-Wind_Beneath_My_Wings.jpg/220px-Bette_Midler-Wind_Beneath_My_Wings.jpg",
+    "play": "https://music.youtube.com/watch?v=_7uryK_Mb68&si=w8FvZ-Pts7rdl-Ms",
+    "title": "Wind Beneath My Wings",
+    "singer": "Bette Midler",
+    "year": 1982,
+    "genre": "Pop",
+    "emotion": "gratitude"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-rOCS7G6p0WqachfZ-zyYV0w-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=9XtKATPm6oU&si=En5RNeN60OQndHK_",
+    "title": "You Raise Me Up",
+    "singer": "Josh Groban",
+    "year": 2002,
+    "genre": "Pop",
+    "emotion": "gratitude"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71oBdOk+2BL._AC_UF1000,1000_QL80_.jpg",
+    "play": "https://music.youtube.com/watch?v=fnyMzZiKfkY&si=AWoFacFSsE3TjSQY",
+    "title": "What a Wonderful World",
+    "singer": "Louis Armstrong",
+    "year": 1967,
+    "genre": "Jazz",
+    "emotion": "gratitude"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Lean_on_me_by_bill_withers_side-A_1985_US_reissue.png",
+    "play": "https://music.youtube.com/watch?v=fOZ-MySzAac&si=F4r6uMxWQ84PjLVI",
+    "title": "Lean on Me",
+    "singer": "Bill Withers",
+    "year": 1972,
+    "genre": "Soul",
+    "emotion": "gratitude"
+  },
+  {
+    "image": "https://static.stereogum.com/uploads/2019/02/James-Taylor-Youve-Got-A-Friend-1549048909-517x520.jpg",
+    "play": "https://music.youtube.com/watch?v=H6PVfIJmea8&si=Mfkh34t6466iTxGo",
+    "title": "You've Got a Friend",
+    "singer": "James Taylor",
+    "year": 1971,
+    "genre": "Folk Rock",
+    "emotion": "gratitude"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000141291075-uyqdpr-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=hN5WMvtzaD8&si=r_dmNxooMlVxE7dH",
+    "title": "Count on Me",
+    "singer": "Bruno Mars",
+    "year": 2010,
+    "genre": "Pop",
+    "emotion": "gratitude"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Survivortiger.jpg",
+    "play": "https://music.youtube.com/watch?v=S-LO6dctBms&si=7mvX5J8t-62lQd7y",
+    "title": "Eye of the Tiger",
+    "singer": "Survivor",
+    "year": 1982,
+    "genre": "Rock",
+    "emotion": "excitement"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Don%27t_Stop_Believin%27.jpg/220px-Don%27t_Stop_Believin%27.jpg",
+    "play": "https://music.youtube.com/watch?v=7bX76VR6oQE&si=s5VkDRFCn-_-3OTj",
+    "title": "Don't Stop Believin'",
+    "singer": "Journey",
+    "year": 1981,
+    "genre": "Rock",
+    "emotion": "excitement"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000136214158-87a33w-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=tYvFa2ARD24&si=2mwjJhpM-vHF99E4",
+    "title": "Uptown Funk",
+    "singer": "Mark Ronson ft. Bruno Mars",
+    "year": 2014,
+    "genre": "Funk",
+    "emotion": "excitement"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-zs8uLIRF6CcMA3jE-ziWKVQ-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=Wnn6M1nNiKQ&si=-gSgq2a6zqt6zX0J",
+    "title": "I Gotta Feeling",
+    "singer": "The Black Eyed Peas",
+    "year": 2009,
+    "genre": "Pop",
+    "emotion": "excitement"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Pharrell_Williams_-_Happy.jpg/220px-Pharrell_Williams_-_Happy.jpg",
+    "play": "https://music.youtube.com/playlist?list=OLAK5uy_kLY_6XBzZgX3koWIkgpzoMdlP15kBVpVo&si=3d2IHsVLeeFDKxVk",
+    "title": "Happy",
+    "singer": "Pharrell Williams",
+    "year": 2013,
+    "genre": "Pop",
+    "emotion": "excitement"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/18/We_Will_Rock_You_by_Queen_%281977_French_single%29.png",
+    "play": "https://music.youtube.com/watch?v=tsTH9TpxU_Y&si=GFPyBnP52BTs7KNF",
+    "title": "We Will Rock You",
+    "singer": "Queen",
+    "year": 1977,
+    "genre": "Rock",
+    "emotion": "excitement"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/Party_Rock_Anthem_%28feat._Lauren_Bennet_%26_GoonRock%29_-_Single.jpeg",
+    "play": "https://music.youtube.com/watch?v=pIOOwhmkoLo&si=YQWzHoHVPly82m-Q",
+    "title": "Party Rock Anthem",
+    "singer": "LMFAO ft. Lauren Bennett & GoonRock",
+    "year": 2011,
+    "genre": "Electropop",
+    "emotion": "excitement"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-ay9gdV2vsD10khbm-ydByyA-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=WCOfYNJAG4U&si=dlRLFqJB1DdQ2cTA",
+    "title": "Thunderstruck",
+    "singer": "AC/DC",
+    "year": 1990,
+    "genre": "Hard Rock",
+    "emotion": "excitement"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE0ZTVlZTktZjY3My00NDhiLThjZjMtMDlmOGVlNjY0ZjAzXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg",
+    "play": "https://music.youtube.com/watch?v=YBdyc1WDlBQ&si=-2t2qVV7GIZTKeSn",
+    "title": "Livin' on a Prayer",
+    "singer": "Bon Jovi",
+    "year": 1986,
+    "genre": "Rock",
+    "emotion": "excitement"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/30/Beyonce_-_Crazy_in_Love_%28single%29.png",
+    "play": "https://music.youtube.com/watch?v=JxMZPdZLehs&si=1nkWkf1A5ShjmeW1",
+    "title": "Crazy in Love",
+    "singer": "Beyoncé ft. Jay-Z",
+    "year": 2003,
+    "genre": "R&B",
+    "emotion": "desire"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/38/The_Weeknd_-_Earned_It.png",
+    "play": "https://music.youtube.com/watch?v=CtyytBCHA9U&si=iFePxSXkJCgH16g7",
+    "title": "Earned It",
+    "singer": "The Weeknd",
+    "year": 2014,
+    "genre": "R&B",
+    "emotion": "desire"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Marvin_Gaye_-_Sexual_Healing_7-inch_single.JPG/220px-Marvin_Gaye_-_Sexual_Healing_7-inch_single.JPG",
+    "play": "https://music.youtube.com/watch?v=9LxPoJ4QoSk&si=EauU81__ldp31uEi",
+    "title": "Sexual Healing",
+    "singer": "Marvin Gaye",
+    "year": 1982,
+    "genre": "R&B",
+    "emotion": "desire"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-zQEDln8wzFoybdoR-SS44pg-t1080x1080.jpg",
+    "play": "https://music.youtube.com/watch?v=oadhHk2xs6c&si=2If1aT15BXSRfTjH",
+    "title": "Wicked Game",
+    "singer": "Chris Isaak",
+    "year": 1989,
+    "genre": "Rock",
+    "emotion": "desire"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8a/Drunk_in_Love_cover.png",
+    "play": "https://music.youtube.com/watch?v=BroIjAi27f4&si=uVCXEz3iG1RHkaMm",
+    "title": "Drunk in Love",
+    "singer": "Beyoncé ft. Jay-Z",
+    "year": 2013,
+    "genre": "R&B",
+    "emotion": "desire"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/90/Adore_You_-_Harry_Styles.png",
+    "play": "https://music.youtube.com/watch?v=vum2bUJwfkI&si=FNYkc1A55ne8ghkx",
+    "title": "Adore You",
+    "singer": "Harry Styles",
+    "year": 2019,
+    "genre": "Pop",
+    "emotion": "desire"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/57/Foreigner-I-Want-To-Know-Wh-297484.jpg",
+    "play": "https://music.youtube.com/watch?v=4jA-_g_iSY0&si=l65aNeT4yHwqu6A6",
+    "title": "I Want to Know What Love Is",
+    "singer": "Foreigner",
+    "year": 1984,
+    "genre": "Rock",
+    "emotion": "desire"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/eb/Let%27s_Get_It_On_-_Marvin_Gaye.jpg",
+    "play": "https://music.youtube.com/watch?v=tQj1kPmQXwE&si=paZ6RCnIi6eR4PGp",
+    "title": "Let's Get It On",
+    "singer": "Marvin Gaye",
+    "year": 1973,
+    "genre": "Soul",
+    "emotion": "desire"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000039269153-6j4tnx-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=g8TLU_JxCjc&si=Jm_Nb-F_6hJfcz5I",
+    "title": "Wicked Games",
+    "singer": "The Weeknd",
+    "year": 2012,
+    "genre": "R&B",
+    "emotion": "desire"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Huey-lewis-and-the-news-the-power-of-love-chysalis-US-German-cover.jpg",
+    "play": "https://music.youtube.com/watch?v=wIiVp3poe2c&si=Spw1CVRz-hi9VfEI",
+    "title": "The Power of Love",
+    "singer": "Huey Lewis and the News",
+    "year": 1985,
+    "genre": "Rock",
+    "emotion": "desire"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/617XlvMKQpL._UF1000,1000_QL80_.jpg",
+    "play": "https://music.youtube.com/watch?v=tRNpjt29n6Y&si=YX1IofXu3RSK7VxC",
+    "title": "Space Oddity",
+    "singer": "David Bowie",
+    "year": 1969,
+    "genre": "Rock",
+    "emotion": "curiosity"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg",
+    "play": "https://music.youtube.com/watch?v=BciS5krYL80&si=ctZsmE-XsmFEdAnn",
+    "title": "Hotel California",
+    "singer": "Eagles",
+    "year": 1976,
+    "genre": "Rock",
+    "emotion": "curiosity"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61kVGVaGTmL._AC_UF1000,1000_QL80_.jpg",
+    "play": "https://music.youtube.com/watch?v=yl3TsqL0ZPw&si=gO9mWtnybNx_a6lW",
+    "title": "Bohemian Rhapsody",
+    "singer": "Queen",
+    "year": 1975,
+    "genre": "Rock",
+    "emotion": "curiosity"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000094079983-w2pr1t-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=X791IzOwt3Q&si=iV3wwSHDinORLTKQ",
+    "title": "Stairway to Heaven",
+    "singer": "Led Zeppelin",
+    "year": 1971,
+    "genre": "Rock",
+    "emotion": "curiosity"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/SoundsSilence.jpg",
+    "play": "https://music.youtube.com/watch?v=Nn0Gf8e_sHI&si=eVJAYLIUIyNnUmFX",
+    "title": "The Sound of Silence",
+    "singer": "Simon & Garfunkel",
+    "year": 1964,
+    "genre": "Folk Rock",
+    "emotion": "curiosity"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/82/Eleanor_rigby_single_usa.jpg",
+    "play": "https://music.youtube.com/watch?v=wbxTlxuECJA&si=QUj-rcCG3NMV3h9f",
+    "title": "Eleanor Rigby",
+    "singer": "The Beatles",
+    "year": 1966,
+    "genre": "Baroque Pop",
+    "emotion": "curiosity"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000217817497-ig592v-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=170sceOWWXc&si=FI1dY6mWkbJHNIzD",
+    "title": "Paint It Black",
+    "singer": "The Rolling Stones",
+    "year": 1966,
+    "genre": "Rock",
+    "emotion": "curiosity"
+  },
+  {
+    "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5976_p_v8_ad.jpg",
+    "play": "https://music.youtube.com/watch?v=uWepTCBBnLo&si=iXEN5xJRYx4QDfao",
+    "title": "Sympathy for the Devil",
+    "singer": "The Rolling Stones",
+    "year": 1968,
+    "genre": "Rock",
+    "emotion": "curiosity"
+  },
+  {
+    "image": "https://www.udiscovermusic.com/wp-content/uploads/2023/09/TheWho-3000DPI300RGB1000401978-820x820.jpg",
+    "play": "https://music.youtube.com/watch?v=wOGWrbIYPqY&si=SexOdGndjMfTHT12",
+    "title": "Behind Blue Eyes",
+    "singer": "The Who",
+    "year": 1971,
+    "genre": "Rock",
+    "emotion": "curiosity"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/The_Who_-_Baba_cover.jpg",
+    "play": "https://music.youtube.com/watch?v=rIbMbXjbW98&si=Gb3p-bWX87ULhJPq",
+    "title": "Baba O'Riley",
+    "singer": "The Who",
+    "year": 1971,
+    "genre": "Rock",
+    "emotion": "curiosity"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71BxmmJoN2L._UF1000,1000_QL80_.jpg",
+    "play": "https://music.youtube.com/watch?v=j_JaDDcyIIU&si=yLkjZtiGsByfHJU0",
+    "title": "Yellow Submarine",
+    "singer": "The Beatles",
+    "year": 1966,
+    "genre": "Psychedelic Pop",
+    "emotion": "confusion"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/af/I_am_the_walrus_single_reverse.PNG",
+    "play": "https://music.youtube.com/watch?v=Dn4SCyBmAOo&si=LjJPWwnSymOclhSt",
+    "title": "I Am the Walrus",
+    "singer": "The Beatles",
+    "year": 1967,
+    "genre": "Psychedelic Rock",
+    "emotion": "confusion"
+  },
+  {
+    "image": "https://www.thisdayinmusic.com/wp-content/uploads/2019/04/The-Great-Gig-in-The-Sky.jpg",
+    "play": "https://music.youtube.com/watch?v=mPGv8L3a_sY&si=bvXPkwy5_xvI_BL3",
+    "title": "The Great Gig in the Sky",
+    "singer": "Pink Floyd",
+    "year": 1973,
+    "genre": "Progressive Rock",
+    "emotion": "confusion"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/cd/Paranoid_Android_CD1.jpg",
+    "play": "https://music.youtube.com/watch?v=DExBeFCx3mQ&si=C_13UB7siwdUuVBF",
+    "title": "Paranoid Android",
+    "singer": "Radiohead",
+    "year": 1997,
+    "genre": "Alternative Rock",
+    "emotion": "confusion"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000027478909-apfb6s-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=XZuM4zFg-60&si=CjpbvjcUUv0Y9BVM",
+    "title": "Enter Sandman",
+    "singer": "Metallica",
+    "year": 1991,
+    "genre": "Heavy Metal",
+    "emotion": "confusion"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/White_rabbit.JPG/200px-White_rabbit.JPG",
+    "play": "https://music.youtube.com/watch?v=5aeWicwy7fA&si=1aH9msNv-uTyyMFv",
+    "title": "White Rabbit",
+    "singer": "Jefferson Airplane",
+    "year": 1967,
+    "genre": "Psychedelic Rock",
+    "emotion": "confusion"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f0/Lucy_in_the_Sky_with_Diamonds_US_sheet_music_cover.jpg",
+    "play": "https://music.youtube.com/watch?v=naoknj1ebqI&si=AZUG_WiOexGd4jmF",
+    "title": "Lucy in the Sky with Diamonds",
+    "singer": "The Beatles",
+    "year": 1967,
+    "genre": "Psychedelic Rock",
+    "emotion": "confusion"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Tomorrow_Never_Knows_sheet_music_cover.jpg",
+    "play": "https://music.youtube.com/watch?v=pHNbHn3i9S4&si=MSZsdy0gCMznNXMa",
+    "title": "Tomorrow Never Knows",
+    "singer": "The Beatles",
+    "year": 1966,
+    "genre": "Psychedelic Rock",
+    "emotion": "confusion"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/91sLchfSmpL._UF1000,1000_QL80_.jpg",
+    "play": "https://music.youtube.com/watch?v=yl3TsqL0ZPw&si=8ylFA10olgevDFYd",
+    "title": "Bohemian Rhapsody",
+    "singer": "Queen",
+    "year": 1975,
+    "genre": "Rock",
+    "emotion": "confusion"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/7f289a34a654672b5ee0365a00d7abd31cb027b190aa8864deccd07d87d4424c.jpg",
+    "play": "https://music.youtube.com/watch?v=x-xTttimcNk&si=iS-D7VFScDcfMTJ_",
+    "title": "Comfortably Numb",
+    "singer": "Pink Floyd",
+    "year": 1979,
+    "genre": "Progressive Rock",
+    "emotion": "confusion"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Lean_on_me_by_bill_withers_side-A_1985_US_reissue.png",
+    "play": "https://music.youtube.com/watch?v=fOZ-MySzAac&si=31r_gZ3ogzXENtng",
+    "title": "Lean on Me",
+    "singer": "Bill Withers",
+    "year": 1972,
+    "genre": "Soul",
+    "emotion": "caring"
+  },
+  {
+    "image": "https://static.stereogum.com/uploads/2019/02/James-Taylor-Youve-Got-A-Friend-1549048909-517x520.jpg",
+    "play": "https://music.youtube.com/watch?v=5_r6yp8xGa0&si=_vWXiJWLKVdBBjBx",
+    "title": "You've Got a Friend",
+    "singer": "James Taylor",
+    "year": 1971,
+    "genre": "Folk Rock",
+    "emotion": "caring"
+  },
+  {
+    "image": "https://i.discogs.com/ICJsfkS-ZQBboU5U-1Ucquvm7vuqlNv1ZZjIsxYEURQ/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTY5/NzYtMTQyNTk5MDU2/NC02NTc3LmpwZWc.jpeg",
+    "play": "https://music.youtube.com/watch?v=_7uryK_Mb68&si=n9uzdNVp728sahhu",
+    "title": "Wind Beneath My Wings",
+    "singer": "Bette Midler",
+    "year": 1982,
+    "genre": "Pop",
+    "emotion": "caring"
+  },
+  {
+    "image": "https://static.stereogum.com/uploads/2019/01/The-Jackson-5-Ill-Be-There-1547499631.jpg",
+    "play": "https://music.youtube.com/watch?v=kBhSh7y_IkM&si=ojnrZpX871JTfnv9",
+    "title": "I'll Be There",
+    "singer": "The Jackson 5",
+    "year": 1970,
+    "genre": "Soul",
+    "emotion": "caring"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000141291075-uyqdpr-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=hN5WMvtzaD8&si=kuSFkb4c_-RzKL-B",
+    "title": "Count on Me",
+    "singer": "Bruno Mars",
+    "year": 2010,
+    "genre": "Pop",
+    "emotion": "caring"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71ePwwSsmML._AC_UF1000,1000_QL80_.jpg",
+    "play": "https://music.youtube.com/watch?v=9XtKATPm6oU&si=x22PQjyywMAaV871",
+    "title": "You Raise Me Up",
+    "singer": "Josh Groban",
+    "year": 2002,
+    "genre": "Pop",
+    "emotion": "caring"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Simon_and_Garfunkel%2C_Bridge_over_Troubled_Water_%281970%29.png",
+    "play": "https://music.youtube.com/watch?v=nvF5imxSaLI&si=OID7EuvWx8KR2abO",
+    "title": "Bridge Over Troubled Water",
+    "singer": "Simon & Garfunkel",
+    "year": 1970,
+    "genre": "Folk Rock",
+    "emotion": "caring"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BNWMxMTAwNDMtYjljNC00NWJiLTllMzAtYzUyYTk3OTM5ZGZkXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg",
+    "play": "https://music.youtube.com/watch?v=pKtLNYNWbBw&si=31WSLVamznZfyMXk",
+    "title": "Stand by Me",
+    "singer": "Ben E. King",
+    "year": 1961,
+    "genre": "R&B",
+    "emotion": "caring"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Josh_Groban_You_Are_Loved_Don%27t_Give_Up.jpg",
+    "play": "https://music.youtube.com/watch?v=ZBJUDyntlWY&si=1WNrwj_jBPTuU0bA",
+    "title": "You Are Loved (Don't Give Up)",
+    "singer": "Josh Groban",
+    "year": 2006,
+    "genre": "Pop",
+    "emotion": "caring"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Michael_Jackson_-_Heal_the_World.png",
+    "play": "https://music.youtube.com/watch?v=cyCMuCFCkdk&si=sPqa5Wr_tmvuc_iL",
+    "title": "Heal the World",
+    "singer": "Michael Jackson",
+    "year": 1991,
+    "genre": "Pop",
+    "emotion": "caring"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Survivortiger.jpg",
+    "play": "https://music.youtube.com/watch?v=S-LO6dctBms&si=i0yJsr9W4oYC7NcD",
+    "title": "Eye of the Tiger",
+    "singer": "Survivor",
+    "year": 1982,
+    "genre": "Rock",
+    "emotion": "approval"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Pharrell_Williams_-_Happy.jpg/220px-Pharrell_Williams_-_Happy.jpg",
+    "play": "https://music.youtube.com/watch?v=dJqxQzxLbHM&si=pEAdoioMcj4YhOla",
+    "title": "Happy",
+    "singer": "Pharrell Williams",
+    "year": 2013,
+    "genre": "Pop",
+    "emotion": "approval"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/18/We_Will_Rock_You_by_Queen_%281977_French_single%29.png",
+    "play": "https://music.youtube.com/watch?v=tsTH9TpxU_Y&si=PGSQE3furDhYSz35",
+    "title": "We Will Rock You",
+    "singer": "Queen",
+    "year": 1977,
+    "genre": "Rock",
+    "emotion": "approval"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Don%27t_Stop_Believin%27.jpg/220px-Don%27t_Stop_Believin%27.jpg",
+    "play": "https://music.youtube.com/watch?v=PIFUWHvSixw&si=7iIzbKE2yL1Zt3X2",
+    "title": "Don't Stop Believin'",
+    "singer": "Journey",
+    "year": 1981,
+    "genre": "Rock",
+    "emotion": "approval"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BYjNkNmVlNjMtYWM3Ny00OGEwLWJkMzAtZWFlNDE3NzI4MDY0XkEyXkFqcGdeQXVyNDE4OTY5NzI@._V1_.jpg",
+    "play": "https://music.youtube.com/watch?v=nXMPx4DDVWM&si=xAyUaDsev53wo-Ln",
+    "title": "I Will Survive",
+    "singer": "Gloria Gaynor",
+    "year": 1978,
+    "genre": "Disco",
+    "emotion": "approval"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000136214158-87a33w-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=tYvFa2ARD24&si=t8FkpnDSaHNWZOVV",
+    "title": "Uptown Funk",
+    "singer": "Mark Ronson ft. Bruno Mars",
+    "year": 2014,
+    "genre": "Funk",
+    "emotion": "approval"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/U2_Beautiful_Day_Album_Cover.jpg",
+    "play": "https://music.youtube.com/watch?v=QrqPjFyM0wg&si=5-50o29Wsaw9rNOo",
+    "title": "Beautiful Day",
+    "singer": "U2",
+    "year": 2000,
+    "genre": "Rock",
+    "emotion": "approval"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b0/The_Monkees_single_02_I%27m_a_Believer.jpg",
+    "play": "https://music.youtube.com/watch?v=4PQAqprjOuA&si=V5M7_CJ0Vz7Pit1l",
+    "title": "I'm a Believer",
+    "singer": "The Monkees",
+    "year": 1966,
+    "genre": "Pop Rock",
+    "emotion": "approval"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Walkingonsunshine.jpg",
+    "play": "https://music.youtube.com/watch?v=HmR2IZjuMVc&si=kSQvENaaaHvKlw8O",
+    "title": "Walking on Sunshine",
+    "singer": "Katrina and the Waves",
+    "year": 1985,
+    "genre": "Pop Rock",
+    "emotion": "approval"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000203903601-81vfv2-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=6p3E7OMw52g&si=ryr-mUj3inAKJZoy",
+    "title": "Can't Stop the Feeling!",
+    "singer": "Justin Timberlake",
+    "year": 2016,
+    "genre": "Pop",
+    "emotion": "approval"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Pharrell_Williams_-_Happy.jpg/220px-Pharrell_Williams_-_Happy.jpg",
+    "play": "https://music.youtube.com/watch?v=dJqxQzxLbHM&si=HLOuigmcQAfgUg9J",
+    "title": "Happy",
+    "singer": "Pharrell Williams",
+    "year": 2013,
+    "genre": "Pop",
+    "emotion": "amusement"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000136214158-87a33w-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=tYvFa2ARD24&si=blsTkkEdRysKsxEy",
+    "title": "Uptown Funk",
+    "singer": "Mark Ronson ft. Bruno Mars",
+    "year": 2014,
+    "genre": "Funk",
+    "emotion": "amusement"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000203903601-81vfv2-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=6p3E7OMw52g&si=MejImlRBxhnTCFou",
+    "title": "Can't Stop the Feeling!",
+    "singer": "Justin Timberlake",
+    "year": 2016,
+    "genre": "Pop",
+    "emotion": "amusement"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-zs8uLIRF6CcMA3jE-ziWKVQ-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=Wnn6M1nNiKQ&si=1AeTrQkE0QVtP3xa",
+    "title": "I Gotta Feeling",
+    "singer": "The Black Eyed Peas",
+    "year": 2009,
+    "genre": "Pop",
+    "emotion": "amusement"
+  },
+  {
+    "image": "https://i.pinimg.com/originals/d6/91/f6/d691f6c7dcfed430fe134056bef98736.png",
+    "play": "https://music.youtube.com/watch?v=sWMk8dwljFU&si=mt2YUpeydz8BYamF",
+    "title": "Shake It Off",
+    "singer": "Taylor Swift",
+    "year": 2014,
+    "genre": "Pop",
+    "emotion": "amusement"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/Party_Rock_Anthem_%28feat._Lauren_Bennet_%26_GoonRock%29_-_Single.jpeg",
+    "play": "https://music.youtube.com/watch?v=kmioyMNkgx4&si=j_yuqDYt8qVfMJz6",
+    "title": "Party Rock Anthem",
+    "singer": "LMFAO",
+    "year": 2011,
+    "genre": "Electro House",
+    "emotion": "amusement"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-YSn2GNotAPdZRG68-5uONpA-t500x500.png",
+    "play": "https://music.youtube.com/watch?v=_NkpHLq76ro&si=nbt50mn2JaxTmbsa",
+    "title": "I Like to Move It",
+    "singer": "Reel 2 Real ft. The Mad Stuntman",
+    "year": 1993,
+    "genre": "House",
+    "emotion": "amusement"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/Hey_Ya_single_cover.png",
+    "play": "https://music.youtube.com/watch?v=jyyt0T-4dc4&si=UzXqeWDX9IC3Lx_P",
+    "title": "Hey Ya!",
+    "singer": "Outkast",
+    "year": 2003,
+    "genre": "Hip Hop",
+    "emotion": "amusement"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/19/JuniorSeniorMoveYourFeetCDSingleCover.jpg",
+    "play": "https://music.youtube.com/watch?v=xI9NfAetZyk&si=A5LXiuqAGlYw5QE7",
+    "title": "Move Your Feet",
+    "singer": "Junior Senior",
+    "year": 2002,
+    "genre": "Dance-pop",
+    "emotion": "amusement"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000159517398-6onyu8-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=JxMZPdZLehs&si=k4rPs1mb5HDNpw7X",
+    "title": "Crazy in Love",
+    "singer": "Beyoncé ft. Jay-Z",
+    "year": 2003,
+    "genre": "R&B",
+    "emotion": "amusement"
+  },
+  {
+    "image": "https://i.pinimg.com/originals/c9/79/1c/c9791c14f0e06788328ca1e464a3b58a.jpg",
+    "play": "https://music.youtube.com/watch?v=rAn-AWXtHv0&si=dN68HOtQHi-h6V0t",
+    "title": "Imagine",
+    "singer": "John Lennon",
+    "year": 1971,
+    "genre": "Rock",
+    "emotion": "admiration"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/91sLchfSmpL._UF1000,1000_QL80_.jpg",
+    "play": "https://music.youtube.com/watch?v=yl3TsqL0ZPw&si=PbnWL2Jad0yIJrlM",
+    "title": "Bohemian Rhapsody",
+    "singer": "Queen",
+    "year": 1975,
+    "genre": "Rock",
+    "emotion": "admiration"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000177633455-fhzfz2-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=ABfQuZqq8wg&si=NoJhLKXOlXOQBblx",
+    "title": "Ain't No Mountain High Enough",
+    "singer": "Marvin Gaye & Tammi Terrell",
+    "year": 1967,
+    "genre": "Soul",
+    "emotion": "admiration"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/I_Will_Always_Love_You_by_Whitney_Houston_US_CD_single.jpg/220px-I_Will_Always_Love_You_by_Whitney_Houston_US_CD_single.jpg",
+    "play": "https://music.youtube.com/watch?v=tP0zj220CbQ&si=_vOGj1tQFZizPGWD",
+    "title": "I Will Always Love You",
+    "singer": "Whitney Houston",
+    "year": 1992,
+    "genre": "R&B",
+    "emotion": "admiration"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71oBdOk+2BL._AC_UF1000,1000_QL80_.jpg",
+    "play": "https://music.youtube.com/watch?v=fnyMzZiKfkY&si=Kv1mJKGkDuX1IUz3",
+    "title": "What a Wonderful World",
+    "singer": "Louis Armstrong",
+    "year": 1967,
+    "genre": "Jazz",
+    "emotion": "admiration"
+  },
+  {
+    "image": "https://images.genius.com/a86d6b70fe8165ebe81178fa473c5bd4.720x720x1.jpg",
+    "play": "https://music.youtube.com/watch?v=U-Ooxpz0Eqk&si=DiLfvu7Zr-luJntF",
+    "title": "Somewhere Over the Rainbow",
+    "singer": "Israel Kamakawiwo'ole",
+    "year": 1993,
+    "genre": "Hawaiian",
+    "emotion": "admiration"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000117322970-vbthp3-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=MYrXK5ek_PQ&si=VbaTNrkm5JjVo1RR",
+    "title": "Hallelujah",
+    "singer": "Jeff Buckley",
+    "year": 1994,
+    "genre": "Folk Rock",
+    "emotion": "admiration"
+  },
+  {
+    "image": "https://cdn.europosters.eu/image/750/posters/david-bowie-heroes-i86563.jpg",
+    "play": "https://music.youtube.com/watch?v=YLp2cW7ICCU&si=Tq9plcF4I5ywXhYm",
+    "title": "Heroes",
+    "singer": "David Bowie",
+    "year": 1977,
+    "genre": "Rock",
+    "emotion": "admiration"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BNWMxMTAwNDMtYjljNC00NWJiLTllMzAtYzUyYTk3OTM5ZGZkXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg",
+    "play": "https://music.youtube.com/watch?v=pKtLNYNWbBw&si=rTFMjjJANVZcSgTn",
+    "title": "Stand by Me",
+    "singer": "Ben E. King",
+    "year": 1961,
+    "genre": "R&B",
+    "emotion": "admiration"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/SoundsSilence.jpg",
+    "play": "https://music.youtube.com/watch?v=1okn3YNk-ro&si=9eRs_X-Kn-a29rxc",
+    "title": "The Sound of Silence",
+    "singer": "Simon & Garfunkel",
+    "year": 1964,
+    "genre": "Folk Rock",
+    "emotion": "admiration"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Taylor_Swift_-_Shake_It_Off.png",
+    "play": "https://music.youtube.com/watch?v=sWMk8dwljFU&si=aeiIGaFSYDg8eXGH",
+    "title": "Shake It Off",
+    "singer": "Taylor Swift",
+    "genre": "Pop",
+    "emotion": "annoyance"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000136214158-87a33w-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=tYvFa2ARD24&si=DkrFlTtj64THefxy",
+    "title": "Uptown Funk",
+    "singer": "Mark Ronson ft. Bruno Mars",
+    "genre": "Funk, R&B",
+    "emotion": "annoyance"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Pharrell_Williams_-_Happy.jpg/220px-Pharrell_Williams_-_Happy.jpg",
+    "play": "https://music.youtube.com/watch?v=dJqxQzxLbHM&si=TL1TQulF9Z9kD-_i",
+    "title": "Happy",
+    "singer": "Pharrell Williams",
+    "genre": "Pop, Funk",
+    "emotion": "annoyance"
+  },
+  {
+    "image": "https://www.udiscovermusic.com/wp-content/uploads/2014/12/Gloria-Gaynor-I-Will-Survive.jpg",
+    "play": "https://music.youtube.com/watch?v=nXMPx4DDVWM&si=WitkfohcpZh87wb6",
+    "title": "I Will Survive",
+    "singer": "Gloria Gaynor",
+    "genre": "Disco",
+    "emotion": "annoyance"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Don%27t_Stop_Believin%27.jpg/220px-Don%27t_Stop_Believin%27.jpg",
+    "play": "https://music.youtube.com/watch?v=PIFUWHvSixw&si=ZFcRwNcJiTkUrgUL",
+    "title": "Don't Stop Believin'",
+    "singer": "Journey",
+    "genre": "Rock",
+    "emotion": "annoyance"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Survivortiger.jpg",
+    "play": "https://music.youtube.com/watch?v=S-LO6dctBms&si=AQiTaF83NiCcChQ-",
+    "title": "Eye of the Tiger",
+    "singer": "Survivor",
+    "genre": "Rock",
+    "emotion": "annoyance"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a8/I_Want_To_Break_Free.jpg",
+    "play": "https://music.youtube.com/watch?v=wIqa9uVnXCQ&si=98LOguy8FeUKP4U5",
+    "title": "I Want to Break Free",
+    "singer": "Queen",
+    "genre": "Rock",
+    "emotion": "annoyance"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE0ZTVlZTktZjY3My00NDhiLThjZjMtMDlmOGVlNjY0ZjAzXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg",
+    "play": "https://music.youtube.com/watch?v=mYUPPFqehms&si=IbXYs33pLgEGyvaZ",
+    "title": "Livin' on a Prayer",
+    "singer": "Bon Jovi",
+    "genre": "Rock",
+    "emotion": "annoyance"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/97/Queen-dont-stop-me-now-1979-6-s.jpg",
+    "play": "https://music.youtube.com/watch?v=CczcMarUoVk&si=qM_AbRgGFU59jh0c",
+    "title": "Don't Stop Me Now",
+    "singer": "Queen",
+    "genre": "Rock",
+    "emotion": "annoyance"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/ef/ABBA_-_Dancing_Queen.png",
+    "play": "https://music.youtube.com/watch?v=YkLLcIKhJ64&si=sIiGjoas8Wu0Ml78",
+    "title": "Dancing Queen",
+    "singer": "ABBA",
+    "genre": "Disco, Pop",
+    "emotion": "annoyance"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d1/Mr.-Brightside.jpg",
+    "play": "https://music.youtube.com/watch?v=m2zUrruKjDQ&si=IgZsYhuciKkyyXfF",
+    "title": "Mr. Brightside",
+    "singer": "The Killers",
+    "genre": "Indie Rock",
+    "emotion": "annoyance"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Walkingonsunshine.jpg",
+    "play": "https://music.youtube.com/watch?v=HmR2IZjuMVc&si=oEF7qZfLY4U__wA8",
+    "title": "Walking on Sunshine",
+    "singer": "Katrina and the Waves",
+    "genre": "Pop Rock",
+    "emotion": "annoyance"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Katy_Perry_-_Roar.png",
+    "play": "https://music.youtube.com/watch?v=6nJuUdc2qNg&si=kOOlUUnYFic3jQIn",
+    "title": "Roar",
+    "singer": "Katy Perry",
+    "genre": "Pop",
+    "emotion": "annoyance"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000216355602-yjyo79-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=AYd1x5m5Bj0&si=TaxNAy3VUrtNbAT2",
+    "title": "Dancing in the Street",
+    "singer": "Martha and the Vandellas",
+    "genre": "R&B, Soul",
+    "emotion": "annoyance"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/The_Proclaimers_500_Miles.jpg",
+    "play": "https://music.youtube.com/watch?v=oUv0NbjbGzQ&si=vA9wz-7on7iDgTls",
+    "title": "I'm Gonna Be (500 Miles)",
+    "singer": "The Proclaimers",
+    "genre": "Rock",
+    "emotion": "annoyance"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71nPCsD-oqL._AC_UF1000,1000_QL80_DpWeblab_.jpg",
+    "play": "https://music.youtube.com/watch?v=9iayJ8u4Qew&si=Tg-cDRGbr6rDIbZT",
+    "title": "Respect",
+    "singer": "Aretha Franklin",
+    "genre": "R&B",
+    "emotion": "disapproval"
+  },
+  {
+    "image": "https://www.udiscovermusic.com/wp-content/uploads/2014/12/Gloria-Gaynor-I-Will-Survive.jpg",
+    "play": "https://music.youtube.com/watch?v=nXMPx4DDVWM&si=SMGh3TcZFtuzC-m-",
+    "title": "I Will Survive",
+    "singer": "Gloria Gaynor",
+    "genre": "Disco",
+    "emotion": "disapproval"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/Christina_Aguilera_-_Fighter_%28single%29.png",
+    "play": "https://music.youtube.com/watch?v=nsRls_7T8kE&si=f0EXbBsM8J_Ovsok",
+    "title": "Fighter",
+    "singer": "Christina Aguilera",
+    "genre": "Pop, R&B",
+    "emotion": "disapproval"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BNTNhYTM5NzYtNzE4OS00NDc5LWJiMzktM2RjMzc3NDMyYTRkXkEyXkFqcGdeQXVyMTk5NDI0MA@@._V1_.jpg",
+    "play": "https://music.youtube.com/watch?v=ffmOr4-bbbA&si=EuxULAwced4il4pe",
+    "title": "Stronger (What Doesn't Kill You)",
+    "singer": "Kelly Clarkson",
+    "genre": "Pop Rock",
+    "emotion": "disapproval"
+  },
+  {
+    "image": "https://images.genius.com/e708399a2e7aab75cc7f6b8303427154.1000x1000x1.jpg",
+    "play": "https://music.youtube.com/watch?v=osKRxGax1Zk&si=4Vidc6SwIr4hpK36",
+    "title": "Unbreakable",
+    "singer": "Alicia Keys",
+    "genre": "R&B, Soul",
+    "emotion": "disapproval"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/612pFEKHvtL._UF1000,1000_QL80_.jpg",
+    "play": "https://music.youtube.com/watch?v=mVuSfxqpZa4&si=cDbsp9mNQ1WvWWXP",
+    "title": "Girl on Fire",
+    "singer": "Alicia Keys",
+    "genre": "R&B, Soul",
+    "emotion": "disapproval"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/ce/Fight_Song_by_Rachel_Platten.png",
+    "play": "https://music.youtube.com/watch?v=y5h_dukaB1I&si=qE_nFizcTplg810c",
+    "title": "Fight Song",
+    "singer": "Rachel Platten",
+    "genre": "Pop Rock",
+    "emotion": "disapproval"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Bravesarab.jpg",
+    "play": "https://music.youtube.com/watch?v=tJYpZKU81lc&si=Fad8TWyPjsyOa0A2",
+    "title": "Brave",
+    "singer": "Sara Bareilles",
+    "genre": "Pop Rock",
+    "emotion": "disapproval"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Britney_Spears_-_Stronger.png",
+    "play": "https://music.youtube.com/watch?v=BprKN1ffH3k&si=amflXc5_R9vlHlyO",
+    "title": "Stronger",
+    "singer": "Britney Spears",
+    "genre": "Pop",
+    "emotion": "disapproval"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BY2VhMDE4MDItOWRhNy00YzJkLTg2ZjgtMzY0N2Q4ZDY1ODdiXkEyXkFqcGdeQXVyNDE4OTY5NzI@._V1_FMjpg_UX1000_.jpg",
+    "play": "https://music.youtube.com/watch?v=LRPGqNeav_M&si=H8AUYimqyJf8yLQW",
+    "title": "Titanium",
+    "singer": "David Guetta ft. Sia",
+    "genre": "Pop, Electronic",
+    "emotion": "disapproval"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BZTBjN2EzZGUtNzVjMC00MTY5LWIxMGMtN2YyZTNjMTZjMDdmXkEyXkFqcGdeQXVyNDE4OTY5NzI@._V1_.jpg",
+    "play": "https://music.youtube.com/watch?v=aVJi5jj-zl0&si=eo8GlRGRKfIMwFiQ",
+    "title": "Survivor",
+    "singer": "Destiny's Child",
+    "genre": "R&B",
+    "emotion": "disapproval"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Demi_Lovato_-_Confident_%28Official_Album_Cover%29.png/220px-Demi_Lovato_-_Confident_%28Official_Album_Cover%29.png",
+    "play": "https://music.youtube.com/watch?v=J3JvEc6F054&si=8A117szcrZxE4E-R",
+    "title": "Confident",
+    "singer": "Demi Lovato",
+    "genre": "Pop, R&B",
+    "emotion": "disapproval"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Born_This_Way_album_cover.png",
+    "play": "https://music.youtube.com/watch?v=fn8JP4rUP2I&si=5tT_5rEuyf5UUt_J",
+    "title": "Born This Way",
+    "singer": "Lady Gaga",
+    "genre": "Pop",
+    "emotion": "disapproval"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Don%27t_Stop_Believin%27.jpg/220px-Don%27t_Stop_Believin%27.jpg",
+    "play": "https://music.youtube.com/watch?v=PIFUWHvSixw&si=cDYFL1iCLC5cHG69",
+    "title": "Don't Stop Believin'",
+    "singer": "Journey",
+    "genre": "Rock",
+    "emotion": "disapproval"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000048224341-013o6t-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=M51-spaR4qk&si=tVNnd_ft52SG0DGD",
+    "title": "Firework",
+    "singer": "Katy Perry",
+    "genre": "Pop",
+    "emotion": "disapproval"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000074073161-kmgoqv-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=XqoanTj5pNY&si=zYI4WkHenwY9bVlr",
+    "title": "Someone Like You",
+    "singer": "Adele",
+    "genre": "Pop, Soul",
+    "emotion": "sadness"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000527047770-7qrk4e-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=NrgmdOz227I&si=ykIe3YhNDkcWAe90",
+    "title": "Yesterday",
+    "singer": "The Beatles",
+    "genre": "Rock, Pop",
+    "emotion": "sadness"
+  },
+  {
+    "image": "https://images.genius.com/c734b124310ef95e2f8fcd3a17f1d1ed.1000x1000x1.jpg",
+    "play": "https://music.youtube.com/watch?v=Oncu0bgdcXU&si=Cn_MqAW_oMEKfQCi",
+    "title": "Fix You",
+    "singer": "Coldplay",
+    "genre": "Alternative Rock",
+    "emotion": "sadness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/Tears_in_Heaven_Vinyl_Cover.jpg",
+    "play": "https://music.youtube.com/watch?v=N-cgJwl8juU&si=AHf_NWG9gBl1YnGu",
+    "title": "Tears in Heaven",
+    "singer": "Eric Clapton",
+    "genre": "Acoustic Rock, Blues",
+    "emotion": "sadness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/18/R.E.M._-_Everybody_Hurts.jpg",
+    "play": "https://music.youtube.com/watch?v=tKRznjaIIyw&si=vw95xlFE4U1FEVVw",
+    "title": "Everybody Hurts",
+    "singer": "R.E.M.",
+    "genre": "Alternative Rock",
+    "emotion": "sadness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Nothingcompares2u.jpg/220px-Nothingcompares2u.jpg",
+    "play": "https://music.youtube.com/watch?v=LGrUWn-nt-U&si=_O2MrDtrXki5y_uP",
+    "title": "Nothing Compares 2 U",
+    "singer": "Sinéad O'Connor",
+    "genre": "Pop, Soul",
+    "emotion": "sadness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/SoundsSilence.jpg",
+    "play": "https://music.youtube.com/watch?v=Nn0Gf8e_sHI&si=HD_2A0LFlRn_C48u",
+    "title": "The Sound of Silence",
+    "singer": "Simon & Garfunkel",
+    "genre": "Folk Rock",
+    "emotion": "sadness"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000002212018-jtoazh-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=95FyXUHv8hk&si=KsRQDFxkVG55FAtQ",
+    "title": "Skinny Love",
+    "singer": "Bon Iver",
+    "genre": "Indie Folk",
+    "emotion": "sadness"
+  },
+
+  {
+    "image": "https://i1.sndcdn.com/artworks-GdWDOJ93I1chJZJQ-KZ9vHg-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=ZUtAe5PUKtE&si=3LpVpFalf319-kjt",
+    "title": "Mad World",
+    "singer": "Gary Jules",
+    "genre": "Indie Pop",
+    "emotion": "sadness"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000317701167-dl1eyn-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=gSS2IgnnBo8&si=VIyui8pjEr3p2aZr",
+    "title": "Hurt",
+    "singer": "Johnny Cash",
+    "genre": "Country, Folk",
+    "emotion": "sadness"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk2OGEwNTQtODA1Yy00M2Q2LTg2YmEtYTA0Y2VjMWExZDFmXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg",
+    "play": "https://music.youtube.com/watch?v=KHIMIa5Lzxk&si=NaeRKIRcc6sv85bS",
+    "title": "Say Something",
+    "singer": "A Great Big World, Christina Aguilera",
+    "genre": "Pop",
+    "emotion": "sadness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/ToniBraxtonUnBreakMyHeartCDSingleCover.jpg",
+    "play": "https://music.youtube.com/watch?v=KP6Cx9gFzVM&si=DRugdFNnVW4CIIJU",
+    "title": "Un-Break My Heart",
+    "singer": "Toni Braxton",
+    "genre": "R&B, Soul",
+    "emotion": "sadness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/85/Adele_-_Hello_%28Official_Single_Cover%29.png",
+    "play": "https://music.youtube.com/watch?v=Ei8UnOPJX7w&si=vwav0psQ3A1seXuL",
+    "title": "Hello",
+    "singer": "Adele",
+    "genre": "Pop, Soul",
+    "emotion": "sadness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/Coldplay_-_The_Scientist.png",
+    "play": "https://music.youtube.com/watch?v=gm-Y9idMMQ4&si=wb38028rP1ccPjIU",
+    "title": "The Scientist",
+    "singer": "Coldplay",
+    "genre": "Alternative Rock",
+    "emotion": "sadness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Lewis_Capaldi_-_Someone_You_Loved.png",
+    "play": "https://music.youtube.com/watch?v=pRIZohFFOMo&si=wk1drAjYmTe0tSfj",
+    "title": "Someone You Loved",
+    "singer": "Lewis Capaldi",
+    "genre": "Pop",
+    "emotion": "sadness"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BZjVkYTdiMmMtZGVmMy00ZGE3LThiMTEtMDA2YzUxNzg2Mzk2XkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_.jpg",
+    "play": "https://www.youtube.com/watch?v=xFYQQPAOz7Y&ab_channel=EminemMusic",
+    "title": "Lose Yourself",
+    "singer": "Eminem",
+    "genre": "Hip hop",
+    "emotion": "anger"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000347094663-mq9avv-t500x500.jpg",
+    "play": "https://www.youtube.com/watch?v=ZpUYjpKg9KY&ab_channel=LimpBizkitVEVO",
+    "title": "Break Stuff",
+    "singer": "Limp Bizkit",
+    "genre": "Nu metal, Rap metal",
+    "emotion": "anger"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Killing_AUST.jpg/220px-Killing_AUST.jpg",
+    "play": "https://www.youtube.com/watch?v=bWXazVhlyxQ&ab_channel=RATMVEVO",
+    "title": "Killing in the Name",
+    "singer": "Rage Against the Machine",
+    "genre": "Alternative metal, Rap metal",
+    "emotion": "anger"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/Bulletinthehead2.jpg",
+    "play": "https://www.youtube.com/watch?v=fI677jYfKz0&ab_channel=RaymondJE",
+    "title": "Bullet in the Head",
+    "singer": "Rage Against the Machine",
+    "genre": "Alternative metal, Rap metal",
+    "emotion": "anger"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3f/LinkinParkIntheEnd.jpg",
+    "play": "https://www.youtube.com/watch?v=eVTXPUF4Oz4&ab_channel=LinkinPark",
+    "title": "In the End",
+    "singer": "Linkin Park",
+    "genre": "Nu metal, Rap rock",
+    "emotion": "anger"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Bullsonparade.jpg/220px-Bullsonparade.jpg",
+    "play": "https://www.youtube.com/watch?v=3L4YrGaR8E4&ab_channel=RATMVEVO",
+    "title": "Bulls on Parade",
+    "singer": "Rage Against the Machine",
+    "genre": "Alternative metal, Rap metal",
+    "emotion": "anger"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000106454003-ob70vm-t500x500.jpg",
+    "play": "https://www.youtube.com/watch?v=qw2LU1yS7aw&ab_channel=Slipknot",
+    "title": "Before I Forget",
+    "singer": "Slipknot",
+    "genre": "Nu metal, Alternative metal",
+    "emotion": "anger"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Disturbed_down_with_the_sickness.png",
+    "play": "https://www.youtube.com/watch?v=09LTT0xwdfw&ab_channel=Disturbed",
+    "title": "Down with the Sickness",
+    "singer": "Disturbed",
+    "genre": "Nu metal, Alternative metal",
+    "emotion": "anger"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8b/Eminem_-_The_Way_I_Am_CD_cover.jpg",
+    "play": "https://www.youtube.com/watch?v=82lB-gI-uuQ&ab_channel=Eminem-Topic",
+    "title": "The Way I Am",
+    "singer": "Eminem",
+    "genre": "Hip hop",
+    "emotion": "anger"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/Fuckyousingle.jpg",
+    "play": "https://www.youtube.com/watch?v=4BpFqyxEDbo&ab_channel=LilyAllen-Topic",
+    "title": "F**k You",
+    "singer": "Lily Allen",
+    "genre": "Pop",
+    "emotion": "anger"
+  },
+  {
+    "image": "https://i.ytimg.com/vi/F07b98VdKBc/hqdefault.jpg",
+    "play": "https://www.youtube.com/watch?v=l3RsOxKHr6k&ab_channel=Megadeth-Topic",
+    "title": "Angry Again",
+    "singer": "Megadeth",
+    "genre": "Heavy metal",
+    "emotion": "anger"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/TrustCompanyDownfall.jpg",
+    "play": "https://www.youtube.com/watch?v=BE_0m5OkyN4&ab_channel=TRUSTcompanyVEVO",
+    "title": "Downfall",
+    "singer": "Trust Company",
+    "genre": "Alternative metal, Nu metal",
+    "emotion": "anger"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Marilyn_manson_the_fight_song.png/220px-Marilyn_manson_the_fight_song.png",
+    "play": "https://www.youtube.com/watch?v=9GFI6Rf-IkI&ab_channel=MarilynMansonVEVO",
+    "title": "The Fight Song",
+    "singer": "Marilyn Manson",
+    "genre": "Industrial metal",
+    "emotion": "anger"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Linkin_Park_-_Numb_CD_cover.jpg/220px-Linkin_Park_-_Numb_CD_cover.jpg",
+    "play": "https://www.youtube.com/watch?v=8qJcbeO3Ajs&ab_channel=LatinHype",
+    "title": "Numb",
+    "singer": "Linkin Park",
+    "genre": "Nu metal, Alternative rock",
+    "emotion": "anger"
+  },
+  {
+    "image": "https://i.ytimg.com/vi/d8ekz_CSBVg/maxresdefault.jpg",
+    "play": "https://www.youtube.com/watch?v=d8ekz_CSBVg&ab_channel=ThreeDaysGraceVEVO",
+    "title": "I Hate Everything About You",
+    "singer": "Three Days Grace",
+    "genre": "Alternative rock/post-grunge",
+    "emotion": "anger"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Don%27t_Stop_Believin%27.jpg/220px-Don%27t_Stop_Believin%27.jpg",
+    "play": "https://www.youtube.com/watch?v=x3idGV-7kSQ&ab_channel=JourneyForever",
+    "title": "Don't Stop Believin'",
+    "singer": "Journey",
+    "genre": "Rock",
+    "emotion": "disappointment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/WDKYSingleCover.jpg/220px-WDKYSingleCover.jpg",
+    "play": "https://www.youtube.com/watch?v=Xn676-fLq7I&ab_channel=kellyclarksonVEVO",
+    "title": "What Doesn't Kill You (Stronger)",
+    "singer": "Kelly Clarkson",
+    "genre": "Pop Rock",
+    "emotion": "disappointment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/Christina_Aguilera_-_Fighter_%28single%29.png",
+    "play": "https://www.youtube.com/watch?v=PstrAfoMKlc&ab_channel=CAguileraVEVO",
+    "title": "Fighter",
+    "singer": "Christina Aguilera",
+    "genre": "Pop, R&B",
+    "emotion": "disappointment"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BZTBjN2EzZGUtNzVjMC00MTY5LWIxMGMtN2YyZTNjMTZjMDdmXkEyXkFqcGdeQXVyNDE4OTY5NzI@._V1_.jpg",
+    "play": "https://www.youtube.com/watch?v=Wmc8bQoL-J0&ab_channel=DestinysChildVEVO",
+    "title": "Survivor",
+    "singer": "Destiny's Child",
+    "genre": "R&B",
+    "emotion": "disappointment"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/51N77sNfGIL._AC_UF1000,1000_QL80_.jpg",
+    "play": "https://www.youtube.com/watch?v=2kbW3RvVJIA&ab_channel=aliciakeysVEVO",
+    "title": "Unbreakable",
+    "singer": "Alicia Keys",
+    "genre": "R&B, Soul",
+    "emotion": "disappointment"
+  },
+  {
+    "image": "https://i.ytimg.com/vi/8AHCfZTRGiI/maxresdefault.jpg",
+    "play": "https://www.youtube.com/watch?v=8AHCfZTRGiI&ab_channel=JohnnyCashVEVO",
+    "title": "Hurt",
+    "singer": "Johnny Cash",
+    "genre": "Country/Americana",
+    "emotion": "disappointment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Eminem_-_Not_Afraid.jpg/220px-Eminem_-_Not_Afraid.jpg",
+    "play": "https://www.youtube.com/watch?v=j5-yKhDd64s&ab_channel=EminemVEVO",
+    "title": "Not Afraid",
+    "singer": "Eminem",
+    "genre": "Hip hop",
+    "emotion": "disappointment"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-kTrYyZpfeKtvRW66-Ii9gtA-t500x500.jpg",
+    "play": "https://www.youtube.com/watch?v=i9DlSaQrFqg&ab_channel=LamyaMainhattan",
+    "title": "I Will Survive",
+    "singer": "Gloria Gaynor",
+    "genre": "Disco",
+    "emotion": "disappointment"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000413852313-j8myha-t500x500.jpg",
+    "play": "https://www.youtube.com/watch?v=eAfyFTzZDMM&ab_channel=CAguileraVEVO",
+    "title": "Beautiful",
+    "singer": "Christina Aguilera",
+    "genre": "Pop, R&B",
+    "emotion": "disappointment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Miley_Cyrus_-_The_Climb.png",
+    "play": "https://www.youtube.com/watch?v=NG2zyeVRcbs&ab_channel=HollywoodRecordsVEVO",
+    "title": "The Climb",
+    "singer": "Miley Cyrus",
+    "genre": "Pop",
+    "emotion": "disappointment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Breakaway_Album.PNG/220px-Breakaway_Album.PNG",
+    "play": "https://www.youtube.com/watch?v=c-3vPxKdj6o&ab_channel=kellyclarksonVEVO",
+    "title": "Breakaway",
+    "singer": "Kelly Clarkson",
+    "genre": "Pop Rock",
+    "emotion": "disappointment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Britney_Spears_-_Stronger.png",
+    "play": "https://www.youtube.com/watch?v=AJWtLf4-WWs&ab_channel=BritneySpearsVEVO",
+    "title": "Stronger",
+    "singer": "Britney Spears",
+    "genre": "Pop",
+    "emotion": "disappointment"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BZTBjN2EzZGUtNzVjMC00MTY5LWIxMGMtN2YyZTNjMTZjMDdmXkEyXkFqcGdeQXVyNDE4OTY5NzI@._V1_.jpg",
+    "play": "https://www.youtube.com/watch?v=Wmc8bQoL-J0&ab_channel=DestinysChildVEVO",
+    "title": "Survivor",
+    "singer": "Destiny's Child",
+    "genre": "R&B",
+    "emotion": "disappointment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Demi_Lovato_-_Confident_%28Official_Single_Cover%29.png",
+    "play": "https://www.youtube.com/watch?v=cwLRQn61oUY&ab_channel=DemiLovatoVEVO",
+    "title": "Confident",
+    "singer": "Demi Lovato",
+    "genre": "Pop, R&B",
+    "emotion": "disappointment"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000058355232-csb75b-t500x500.jpg",
+    "play": "https://www.youtube.com/watch?v=CevxZvSJLk8&ab_channel=KatyPerryVEVO",
+    "title": "Roar",
+    "singer": "Katy Perry",
+    "genre": "Pop",
+    "emotion": "disappointment"
+  },
+  {
+    "image": "https://i.pinimg.com/originals/91/c8/20/91c8203830592c2a960e8ad8dae6b0f4.jpg",
+    "play": "https://www.youtube.com/watch?v=FEFPLQ_Cofc&ab_channel=BadBoyEdd",
+    "title": "Don't Worry, Be Happy",
+    "singer": "Bobby McFerrin",
+    "genre": "Reggae, Jazz",
+    "emotion": "nervousness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Pharrell_Williams_-_Happy.jpg",
+    "play": "https://www.youtube.com/watch?v=ZbZSe6N_BXs&ab_channel=PharrellWilliamsVEVO",
+    "title": "Happy",
+    "singer": "Pharrell Williams",
+    "genre": "Pop, Funk",
+    "emotion": "nervousness"
+  },
+  {
+    "image": "https://preview.redd.it/here-comes-the-sun-appreciation-post-v0-gwd167wb937c1.jpeg?auto=webp&s=79f8f640c6c889c4676e71e5809ff274a10292a3",
+    "play": "https://www.youtube.com/watch?v=KQetemT1sWc&ab_channel=TheBeatlesVEVO",
+    "title": "Here Comes the Sun",
+    "singer": "The Beatles",
+    "genre": "Pop, Rock",
+    "emotion": "nervousness"
+  },
+  {
+    "image": "https://www.rollingstone.com/wp-content/uploads/2020/04/bm.jpg",
+    "play": "https://www.youtube.com/watch?v=HNBCVM4KbUM&ab_channel=BobMarleyVEVO",
+    "title": "Three Little Birds",
+    "singer": "Bob Marley & The Wailers",
+    "genre": "Reggae",
+    "emotion": "nervousness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Justin_Timberlake_-_Can%27t_Stop_the_Feeling.png",
+    "play": "https://www.youtube.com/watch?v=ru0K8uYEZWw&ab_channel=justintimberlakeVEVO",
+    "title": "Can't Stop the Feeling!",
+    "singer": "Justin Timberlake",
+    "genre": "Pop, Funk",
+    "emotion": "nervousness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/BestDayOfMyLifeAmericanAuthors.jpg/220px-BestDayOfMyLifeAmericanAuthors.jpg",
+    "play": "https://www.youtube.com/watch?v=Y66j_BUCBMY&ab_channel=AmericanAuthorsVEVO",
+    "title": "Best Day of My Life",
+    "singer": "American Authors",
+    "genre": "Indie Rock, Pop Rock",
+    "emotion": "nervousness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/66/Don%27t_Stop_Believin%27.jpg",
+    "play": "https://www.youtube.com/watch?v=x3idGV-7kSQ&ab_channel=JourneyForever",
+    "title": "Don't Stop Believin'",
+    "singer": "Journey",
+    "genre": "Rock",
+    "emotion": "nervousness"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000177633455-fhzfz2-t500x500.jpg",
+    "play": "https://www.youtube.com/watch?v=ABfQuZqq8wg&ab_channel=MarvinGaye-Topic",
+    "title": "Ain't No Mountain High Enough",
+    "singer": "Marvin Gaye, Tammi Terrell",
+    "genre": "Soul, R&B",
+    "emotion": "nervousness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Walkingonsunshine.jpg",
+    "play": "https://www.youtube.com/watch?v=iPUmE-tne5U&ab_channel=KatrinaTheWavesVEVO",
+    "title": "Walking on Sunshine",
+    "singer": "Katrina and the Waves",
+    "genre": "Pop Rock",
+    "emotion": "nervousness"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-7q6vytBy8z8M3qJi-rx9YwA-t500x500.jpg",
+    "play": "https://www.youtube.com/watch?v=OIPmhkzN2ug&ab_channel=BlackEyedPeas-Topic",
+    "title": "I Gotta Feeling",
+    "singer": "The Black Eyed Peas",
+    "genre": "Dance-pop, Electropop",
+    "emotion": "nervousness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f4/Happy_Together_%28song%29.jpg",
+    "play": "https://www.youtube.com/watch?v=9ZEURntrQOg&ab_channel=CameronPosh",
+    "title": "Happy Together",
+    "singer": "The Turtles",
+    "genre": "Pop",
+    "emotion": "nervousness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Good_Vibrations_single.jpg",
+    "play": "https://www.youtube.com/watch?v=apBWI6xrbLY&ab_channel=TheBeachBoysVEVO",
+    "title": "Good Vibrations",
+    "singer": "The Beach Boys",
+    "genre": "Pop Rock",
+    "emotion": "nervousness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/35/ImYoursJasonMraz.jpg",
+    "play": "https://www.youtube.com/watch?v=EkHTsc9PU2A&ab_channel=JasonMraz",
+    "title": "I'm Yours",
+    "singer": "Jason Mraz",
+    "genre": "Pop, Reggae",
+    "emotion": "nervousness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Elton_John_StillStanding.jpg/220px-Elton_John_StillStanding.jpg",
+    "play": "https://www.youtube.com/watch?v=MDPLNNYVvOA&ab_channel=EltonJohnVEVO",
+    "title": "I'm Still Standing",
+    "singer": "Elton John",
+    "genre": "Pop Rock",
+    "emotion": "nervousness"
+  },
+  {
+    "image": "https://i.ytimg.com/vi/-sVB91NTa4A/maxresdefault.jpg",
+    "play": "https://www.youtube.com/watch?v=xFrGuyw1V8s&ab_channel=AbbaVEVO",
+    "title": "Dancing Queen",
+    "singer": "ABBA",
+    "genre": "Disco, Pop",
+    "emotion": "nervousness"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/Justin_Bieber_-_Sorry_%28Official_Single_Cover%29.png",
+    "play": "https://music.youtube.com/watch?v=v16qZcBllUU&si=Vo9lnFmIGEAPWidm",
+    "title": "Sorry",
+    "singer": "Justin Bieber",
+    "genre": "Pop",
+    "emotion": "remorse"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000070202710-hf86wf-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=8OiXinljqhw&si=Bf0lpEOg7zKnw2Aq",
+    "title": "Apologize",
+    "singer": "OneRepublic",
+    "genre": "Pop Rock",
+    "emotion": "remorse"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b1/Coldplay_-_Fix_You.jpg",
+    "play": "https://music.youtube.com/watch?v=Oncu0bgdcXU&si=F4B5fo1vth3b9gTs",
+    "title": "Fix You",
+    "singer": "Coldplay",
+    "genre": "Alternative Rock",
+    "emotion": "remorse"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/18/R.E.M._-_Everybody_Hurts.jpg",
+    "play": "https://music.youtube.com/watch?v=tKRznjaIIyw&si=h_mkxHjFPWq1Jhe3",
+    "title": "Everybody Hurts",
+    "singer": "R.E.M.",
+    "genre": "Alternative Rock",
+    "emotion": "remorse"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000317701167-dl1eyn-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=gSS2IgnnBo8&si=bPXZt9TEysn2K7sN",
+    "title": "Hurt",
+    "singer": "Johnny Cash",
+    "genre": "Country, Folk",
+    "emotion": "remorse"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/Agreatbigworldsaysomething.png",
+    "play": "https://music.youtube.com/watch?v=KHIMIa5Lzxk&si=j82qRnBXppjFs01c",
+    "title": "Say Something",
+    "singer": "A Great Big World, Christina Aguilera",
+    "genre": "Pop",
+    "emotion": "remorse"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/Coldplay_-_The_Scientist.png",
+    "play": "https://music.youtube.com/watch?v=gm-Y9idMMQ4&si=I5rNruIJJBw9I93Y",
+    "title": "The Scientist",
+    "singer": "Coldplay",
+    "genre": "Alternative Rock",
+    "emotion": "remorse"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000017803212-ou6twc-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=xOazTYPrt64&si=KV6W4NnsO1HE8-fK",
+    "title": "Somebody That I Used to Know",
+    "singer": "Gotye ft. Kimbra",
+    "genre": "Indie Pop",
+    "emotion": "remorse"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000056252046-ga76n8-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=iqXxfOnk-Z4&si=pF_md7YMNY8wLWJd",
+    "title": "Wrecking Ball",
+    "singer": "Miley Cyrus",
+    "genre": "Pop",
+    "emotion": "remorse"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000075445273-xwnuwj-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=ut-p7oK5n0I&si=BMHUhpEfPOwKfLUY",
+    "title": "Unfaithful",
+    "singer": "Rihanna",
+    "genre": "Pop, R&B",
+    "emotion": "remorse"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/Tears_in_Heaven_Vinyl_Cover.jpg",
+    "play": "https://music.youtube.com/watch?v=p3RklAt88xM&si=5quC4O2SvYodQ3I-",
+    "title": "Tears in Heaven",
+    "singer": "Eric Clapton",
+    "genre": "Acoustic Rock, Blues",
+    "emotion": "remorse"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/73/Cry_Me_a_River_cover.png",
+    "play": "https://music.youtube.com/watch?v=CIk45fEWBok&si=vmWAlaOwbsscVGG9",
+    "title": "Cry Me a River",
+    "singer": "Justin Timberlake",
+    "genre": "Pop, R&B",
+    "emotion": "remorse"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Jarofhearts.jpg",
+    "play": "https://music.youtube.com/watch?v=tbMI5bzVv8A&si=QOe5cRcRv5Sy_pwe",
+    "title": "Jar of Hearts",
+    "singer": "Christina Perri",
+    "genre": "Pop",
+    "emotion": "remorse"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000042733496-ffnnde-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=XqoanTj5pNY&si=mEkNKiRJg_KugN9C",
+    "title": "Someone Like You",
+    "singer": "Adele",
+    "genre": "Pop, Soul",
+    "emotion": "remorse"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/HTSAL.jpg",
+    "play": "https://music.youtube.com/watch?v=ae7AACP1-R0&si=jsb8NqOfPlI0_aFt",
+    "title": "How to Save a Life",
+    "singer": "The Fray",
+    "genre": "Alternative Rock",
+    "emotion": "remorse"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/Tears_in_Heaven_Vinyl_Cover.jpg",
+    "play": "https://music.youtube.com/watch?v=N-cgJwl8juU&si=5ex7jlGXRkPjePy0",
+    "title": "Tears in Heaven",
+    "singer": "Eric Clapton",
+    "genre": "Acoustic Rock, Blues",
+    "emotion": "grief"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000123894390-2zixp3-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=pZk_YV7yqeA&si=VRPGVDi29AK-uPgi",
+    "title": "My Heart Will Go On",
+    "singer": "Celine Dion",
+    "genre": "Pop",
+    "emotion": "grief"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000022264679-vgzyky-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=MYrXK5ek_PQ&si=sBZfwpGQsy3jkyEr",
+    "title": "Hallelujah",
+    "singer": "Jeff Buckley",
+    "genre": "Folk Rock",
+    "emotion": "grief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b1/Coldplay_-_Fix_You.jpg",
+    "play": "https://music.youtube.com/watch?v=Oncu0bgdcXU&si=ur7C1HaCrWQzCtbn",
+    "title": "Fix You",
+    "singer": "Coldplay",
+    "genre": "Alternative Rock",
+    "emotion": "grief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8c/Green_Day_-_Wake_Me_Up_When_September_Ends_cover.jpg",
+    "play": "https://music.youtube.com/watch?v=ulRXvH8VOl8&si=EK4UIsxLdf8lcNDN",
+    "title": "Wake Me Up When September Ends",
+    "singer": "Green Day",
+    "genre": "Alternative Rock",
+    "emotion": "grief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/HTSAL.jpg",
+    "play": "https://music.youtube.com/watch?v=ae7AACP1-R0&si=ixBmBiJW04VU5ZMd",
+    "title": "How to Save a Life",
+    "singer": "The Fray",
+    "genre": "Alternative Rock",
+    "emotion": "grief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/08/Wiz_Khalifa_Feat._Charlie_Puth_-_See_You_Again_%28Official_Single_Cover%29.png",
+    "play": "https://music.youtube.com/watch?v=4YNaaX0-nbI&si=OAikbp8dUpXodQqE",
+    "title": "See You Again",
+    "singer": "Wiz Khalifa ft. Charlie Puth",
+    "genre": "Pop, Hip hop",
+    "emotion": "grief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Linkin_Park%2C_One_More_Light%2C_album_art_final.jpeg",
+    "play": "https://music.youtube.com/watch?v=H1LdQntDnFY&si=wFSAMOFmU2_ACHW1",
+    "title": "One More Light",
+    "singer": "Linkin Park",
+    "genre": "Pop Rock",
+    "emotion": "grief"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BZDNiNjc2MjYtNzc5Zi00OGI5LTg2YjYtZDM5YzJlYTBmN2VjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1000_.jpg",
+    "play": "https://music.youtube.com/watch?v=j5_0E38dQPw&si=3QpuH0XKvMyV4GTY",
+    "title": "The Show Must Go On",
+    "singer": "Queen",
+    "genre": "Rock",
+    "emotion": "grief"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/acf612a294cfaf02dc9b38bec6025b14f52c2c23112759adb4348491ee8b0bd1.jpg",
+    "play": "https://music.youtube.com/watch?v=MId7TrChkHA&si=dlcLZpqYm3rCk8AE",
+    "title": "Gone Too Soon",
+    "singer": "Michael Jackson",
+    "genre": "Pop",
+    "emotion": "grief"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000527047770-7qrk4e-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=NrgmdOz227I&si=4h4VAnhHWv-gGDIA",
+    "title": "Yesterday",
+    "singer": "The Beatles",
+    "genre": "Rock, Pop",
+    "emotion": "grief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/2b/L-vandross-dance-father.jpg",
+    "play": "https://music.youtube.com/watch?v=j2uhZZHlxQs&si=K1B5Gbw1G25iXeug",
+    "title": "Dance With My Father",
+    "singer": "Luther Vandross",
+    "genre": "R&B",
+    "emotion": "grief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Witharmswideopen.jpg/220px-Witharmswideopen.jpg",
+    "play": "https://music.youtube.com/watch?v=1hhvxCQOF2Q&si=hmIJ37R71swiiZXP",
+    "title": "With Arms Wide Open",
+    "singer": "Creed",
+    "genre": "Alternative Rock",
+    "emotion": "grief"
+  },
+  {
+    "image": "https://public-assets.production.noteflight.com/coverArts/000/005/451/481/dam_asset_image-28745820240412-9323-1ubfce3.jpg",
+    "play": "https://music.youtube.com/watch?v=UnmQRolJ4IM&si=kzeFxH-rNI8LuEpk",
+    "title": "Who You'd Be Today",
+    "singer": "Kenny Chesney",
+    "genre": "Country",
+    "emotion": "grief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/Tears_in_Heaven_Vinyl_Cover.jpg",
+    "play": "https://music.youtube.com/watch?v=N-cgJwl8juU&si=Emtaa5O6nQ2esQBX",
+    "title": "Tears in Heaven",
+    "singer": "Eric Clapton",
+    "genre": "Acoustic Rock, Blues",
+    "emotion": "grief"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Taylor_Swift_-_Shake_It_Off.png",
+    "play": "https://music.youtube.com/watch?v=sWMk8dwljFU&si=E1n73685vI9j_IMW",
+    "title": "Shake It Off",
+    "singer": "Taylor Swift",
+    "genre": "Pop",
+    "emotion": "embarrassment"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000136214158-87a33w-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=tYvFa2ARD24&si=g24Cso9d0QawXia2",
+    "title": "Uptown Funk",
+    "singer": "Mark Ronson ft. Bruno Mars",
+    "genre": "Funk, R&B",
+    "emotion": "embarrassment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Pharrell_Williams_-_Happy.jpg/220px-Pharrell_Williams_-_Happy.jpg",
+    "play": "https://music.youtube.com/watch?v=dJqxQzxLbHM&si=s8HBBsw4TqNkieQu",
+    "title": "Happy",
+    "singer": "Pharrell Williams",
+    "genre": "Pop, Funk",
+    "emotion": "embarrassment"
+  },
+  {
+    "image": "https://www.udiscovermusic.com/wp-content/uploads/2020/06/GloriaG_IWillSu_CoverAr_3000DPI300RGB1000348311-scaled.jpg",
+    "play": "https://music.youtube.com/watch?v=nXMPx4DDVWM&si=H8y5bm17mqo_ktBH",
+    "title": "I Will Survive",
+    "singer": "Gloria Gaynor",
+    "genre": "Disco",
+    "emotion": "embarrassment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Don%27t_Stop_Believin%27.jpg/220px-Don%27t_Stop_Believin%27.jpg",
+    "play": "https://music.youtube.com/watch?v=PIFUWHvSixw&si=xVzofeHn7DDBEfwo",
+    "title": "Don't Stop Believin'",
+    "singer": "Journey",
+    "genre": "Rock",
+    "emotion": "embarrassment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Survivortiger.jpg",
+    "play": "https://music.youtube.com/watch?v=S-LO6dctBms&si=4pFq9H2F4uoFFKX2",
+    "title": "Eye of the Tiger",
+    "singer": "Survivor",
+    "genre": "Rock",
+    "emotion": "embarrassment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a8/I_Want_To_Break_Free.jpg",
+    "play": "https://music.youtube.com/watch?v=wIqa9uVnXCQ&si=b0tR0l06j-qyj7e4",
+    "title": "I Want to Break Free",
+    "singer": "Queen",
+    "genre": "Rock",
+    "emotion": "embarrassment"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE0ZTVlZTktZjY3My00NDhiLThjZjMtMDlmOGVlNjY0ZjAzXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg",
+    "play": "https://music.youtube.com/watch?v=mYUPPFqehms&si=hy-D2Nv5NmnA8iov",
+    "title": "Livin' on a Prayer",
+    "singer": "Bon Jovi",
+    "genre": "Rock",
+    "emotion": "embarrassment"
+  },
+  {
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFBcVFRUXFxcXFxkZHBoZGRoZGRkaGRoZGRogGhkaICwjGh0pIB0XJDYkKS0vMzMzGiI4PjgyPSwyMy8BCwsLDw4PHRISHjIpIykyMjIyMjIyMjIvMjQyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAOEA4AMBIgACEQEDEQH/xAAcAAAABwEBAAAAAAAAAAAAAAAAAQIDBQYHBAj/xABBEAACAQIEAwYEAwcDAwMFAAABAhEAAwQSITEFQVEGEyJhcYEHMpGhQrHBFFJictHh8COCkhUzonPC8RYkQ7Kz/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAiEQADAAIDAQADAAMAAAAAAAAAAQIDERIhMUETIjIEYeH/2gAMAwEAAhEDEQA/AIA06BFNzyp9dR51mQNItOMKEaUc0hAtrRsho0OopxzrQMak0640B3mkFelS3ZywHxdlGGmcEj+XxAekgUgF3uDpato2Jd7bOJWzbUNdynm5YgIPIyfoRR4LgljEyli863YJW3eVQHgScrIdPp19ad7Y3C2Mu5p8JUAeQRY/OfeonAXSlxLi6Mjqw9jMfpT+lB4Xg957jWlQd4pIKF0VpG8BiM3tNN3sO1tyj5cwMEBlYAjSCVJAPvV94naVeMYcjQvbk+ZC3Vn6AD2qhY4f6l3/ANRyf+Roa0LQvG8OuWlV7gUK4lYuI2YdQFYkjzrqw/ZvE3EW5bthkbZhctQffP66UONn/Swn/oH/APrcqXXBC7wuypuW7UX3M3WKqf8AuCBAOusx5GjQaK5xPhlyxkW5AdwWygqYSYUkqSNSG/410J2YxTorpbUowlWF21B9Dnrl4rYFq4bQfvO7AXMD4SfmbL0UEkfU86smNwS3eHYMG7ZtwbkG6zKDLn5cqnWhBoq/EuGvYK27kC4y5isghVJhZZSRJgn0IoYrhN23bS6yju3MK6sjqT0JQmDod+hpGPVUuvbVi4tnu8x2YoMrEdEkGB0irNw/iq28Lh7V5c+Hv9+twD5lIuDKykays/01FINFX4dw+5fcW7WUsdgXRSYBJyhiJ0namL+FykqxUx+6ysP+SyDVp4dwJ8Lj7AzZ7blmt3BtcUo0baZoIn67RVVjwj0pDGmSBpTRFdarptSXTyoA5S1ErA07fSdhTQtwKACZaban0WedM3EOtADVOqoolXSi8qAJJGroFMhKfC1ZIFWRSweUUSNFKpAImjzedKZKcsYaTEgHz1n9RUukhqWxtT59Kfwt9rbrcUwyMrD1BnXy0pCgCRMkflOn6/Sm21pck/CuOi38YRMdlvWCou5QHtMyq8gaFS0Z+Q35DnpXFgOBPadbuLHdWkYE5iCzkGQqqNSTH0mq3GulWThHad7S9zeXvrJEFW1Kj+Encfwn2iq2t9lcRGI4+zYxcUVMI4heYtgERPWCT6mk8R4dZuXHu28VZFt2LxcLLcTMZYZMpLRJiK68X2ft3wXwN1XG5sucrr1y5tx6/U1XcTgblsxctuhH7ykfSdDSbf0ake4ziVdra2iTbtWltKxEF4lmbLylmOnSKmV/Z7mAtYe5irdu4lxrnyu41L6Egbww+lV5sO4UOUYITAYggExOhO9c9LmPgSON4dat28yYhLzM4UBFZcv4izZt+Q/3HpUzi/2W5gsPZfFpbe0WJOS448ZYxIA6j6VVMtG6daOQcDsx+AsW0U2763ndiPCrKECiSTm1klljTka6cats4awi3bbPaN3OgzzFx1K5SVAOg1qKS35TRvy0o5EuS0dk+Pray2b8G1mzI517p9efJTJ9JPImqjkOUU61cuLxaIDO45c/pT2TxHHcxppH3pDTUYeMCJA66Uy3GGicvP7af5FA+JMkRTDb+VIw2KDjQinjQLQw4im4mnjSUXegQl4Aimkpy4KRljnQBMA0sbU1zmnFHSqJDilpqfOiy+lAIJPn+ug+9TT0ikg76MMkRDsY3IMaMSdgJ0rmu50uKO8VhmB232yiD7+QAmpLD4ElJVpBUggHU8p15VAX8C4LG4Drpp56ajkPPWuXnt9nTMddEpaFtQWR1cZgY2GYagKef5fWmMVjVdRCi3czRt9I6zSsDhUUW86HRW1WCCSZEkHQgTXPjbq510gAAEnWY2kGlvvoeiQwz5hmj1ny5U9dXn1pjDxHh6n296bx2OS3HeMBJ03JPsK2T2hKR6SDoYP5f0qRTjmLUQMRciObFvuZqqvxUlQ6R6MGJ/8AEGiHaDKVF23AP40JYfQiY+9Nb+DXH6TmIxFy42a47O3ViWPpry8qQqbzTiMCAVggiQQZBBpSJUNmqgQFGlBqa4ri+6tlzBiNOuo+3nVVvX7hJZncnUryTK2ukGfeauZdEW5jplsLjbn0mkPVLYkEMSRqTqcubp99p6b13cC4iRcNtphiYmSA36A+VU4aWzKaVPRZLzhVLHlVVx+LLyx25e+nuamO0RHdgTEt+VVzEoWKoo6aaQdeX1ojsLWnobLAyQDsIOu+xHnBpsvIBmTJ6xljpHM1N8E7MviGKIYjctmnzgRHP86k+Mdi7lpVK6kvEbgSCZJGwkfem8kJ6BY6a2VOxfZTn2J6iF3G3tVowj5kVpmRVVuWipZW67HcRuR1jb3qT7OuWzrPhER7k1bX0holzSXePXyroFumMSmlSQMLcEwd6U21NLZ1mlK4G/vQBNEijzdKCLNGUoEhxGolKS2bUZdByJMAT5UgUCq5WzEAZfy1086i/GaSuyc7N2P2lXg5MrBNOiyf1qxXuBpl1gnqRrVc7EYQXcI4Vyr94TKNBiBoT9aneGcHvW3Je/cZIbwOF33BBBMAaev2rnUf6OrYziOHKPCNBBFZ9xSEud2zHUwpOo00iDyq1Yi1jR/qd6rBhogtnTp4hv7xt56VTjts96mfV1kk8gSDFSp7G+0deDvBbedtgGYnyEmi4Tw25jXDZB3TGCZ1EaiPTT60ziLcYNs2ngM/XapbsLxDu7CgAsMzBRoD1JJOgrbep2RS7SJbGdgDkPd3AZ5HT2kVU+Ndj8YtuRbQqOQYFtOY1rVOHcZS4SuVlZf5WH1UkVFcT4+jhlRGYCZaVA03gEy3tRyU9oXHfqMx7LYpgWsOD4fEoI1GsMPSSD7mraluAJqrcPuk471RvcQDrVqDUZH3s6sC3BVe1uIJe2srlEnVtZEEysQeUdZ2rv4L2ZfFnvBcKII9/p771x9puFJbFi4WJuXma4V+aEJCqIHMVo3Brf7PhbZK+IgFpkGT7GOWlVV6hJHLc8rbK7xn4fLklD4gPr5Gs6x2CuWfnUqR8p8wetbhhOOpfBUKwI1ndSImQw5esVQviBi7NxCiMrOCuxE6mKUW+SXwHjTWyG4wGfD27mXcAnykTOm3LXzqL4Wc962DsboETJILaj686nu0Fl7eHtqvyrAbToNPQT+lVbh94JdQtpkZSCI3DA6+wNaT3L0PNPG0bJgse9si1awrZY1YkKd/ManXrTXGsXis7Lbt2sqBZLkycwnwqOlS2FxMrMaxUFieJRigO7uKGtwzOIWVIywRodzrXLtaNUZl2ksMl9zcUKzw8DaCBOk6GQdPOnuzT/OP5fpr+s/Wm+12K7zEM/oB6Amj7PhgYgw0mddY/wAiu2f4RyWv2aLChpm6dd6eC1yXt96Rm0GBTRtD1pYedKQ+lAiamkM9HMb0vJ1imwQ2po7wbL4QJPXaOdLuBVEsQNzqfKTUfiuMW1EAl20AVdiW21+lS1vo0TSLR2IuIrXFXwkvmy/7VUkeWg+lWbjHE3tqTba0z5SCjtlPKIM8hOlZ1wXEFbyEkAt4M3IFoCn0zBfaatN7jmHK93euXLVxdGSYHqJEMtY0nPRvjaYpOLOuGE5Q8tOU5gNTsaz/AA57/FuzsxQEmJ0JELJ/8ta6O0PaNB/p2Dm5AkQPUxSOzfDwYuLcBG8LuPJp2g0TLS5MradaRPYrDK9trZkBlI0pPYe0qh7FwAgMSOjKxkEV1toDO3OdNPOovhXH7BxYVJCBIzHQM865RuAZ0n7cztp6KyJLTZpOGtJbIVABudABv/cn61GW8LbuWQzqITMNh+FuR6SB9KVi0NxfkFwDUaHMpiJDZhGnSobF3/2bDOh8IghV1kTqZJYyd+dQ2Glx2VzhdtXxN+8FiIVeQg9PpUwRVY7J8XDZrbABpLKf3gdwfMfl6VZwadpp6Z0YXLhaF8CuPiLdyw6icPfV0uc8veM2Rp3gAwRyZZ6m8oZEaEedcuG4Ytiyvhhz47h5yYifQAD2pwuYlSJPPcfSqpaZx8ltjOMa3at3SkBhbZoJ1Ommm8VlmD4Un+iRBzauDqTGsk+oFXTtTi81trdxZBG6llI13HWPWqzhLlu2AHcAxAneB+Q86zbfw3xpOlyJHEWc6sp2IIPvWccWwptXCmaSN/sR76zV6fj1hVzEsddgCDAME+KNKj17PHFn9pzKiuxAXUkhTlzMdOmgG4ArXDyl7fgf5dxSSTWyc7N8cF22gueBnBAMkBiJBgjY8431rr4jbt2VNwi2sDTUs5PIS21cPDMHbFkW2AcNLagRJ10AEDSKheK8IIY5WbLyzsWjrEnQVk+O2Z49+FS4g5a5M7AfrU32dVspkeHkfXeujD9l3vPo2UhVn3Jj0kBvpSzbewSsyguOhZzuyEiFUCdAOQI+hrrT5StGFuZt7JRorgxCSZn2pw4l5YlAUCzKnM05Qw8MdDMbxTF/FZSwdGQAiC0QVIHPQzM6gRv0qUzNjSJGutH32pEUV1uVMs4FUTon7+knoJqu4rtC2U5RAiPMGRz9Jqb4hci1cbojem1UBm+9XKEdeJ4g7kkmZLf+W8e1DDYoKwbLmgnSY5RNcdAGr0BYbfF0chcpUnYkiPLWrbiHXHWR4QbqQraa5o3Hkf61mFWLsvxq5YL92QXKwubUQdJI55dDWWTHyXXppjvi+xri3CXwrBnGgPh82iR7Dc1E2CywyMVYDcGD9qkeLY27dcG8xa5MlidDoIgfhGp0AiuEcxErod40BiR0JmNRz2q5TS0xVW62iRvcfvXLZtOwIaAWAhiByMaEHSu3sVw5Ll9kdllkISTAYyJEHnG1VqaVacgyDBGx5g8ojYzQ5WmhO6b2zWLv7bhhltvnQbBxLAdJ5+9QOPa/iGh5JM6RAHUn+tXI8SuXrdu4yKlu5bXJmyksSoYsWVtN9Fjl56PdnLb3mZGSbatrcyqBIjwDLBYc55a66wORY3y0a/k6M57K9k8W90Ollu7VyveMAq6SCVLRO0SJgmtW4T2WKFXuMDlIOVQYMHmTr00j3q0IgUBQIAAAHQDYUqupwm9smctTLmTk4gkow5kaevL71Vb197S94gzKdSnNTzj+lXJgDINQK8JuZ3WB3eYkSd5g7b7k1hnim05DHSXTKPx3jwYfKS0aLGg1GpPTbb+9OdlezC4sO92cvUEjxdeh6RtVtsdkbLFzd8TNG0gKvID76/0qRtkWlWzh020zR4V6meZqYxuWnX/R3afUmK9teB3MBcFslGV5KOG8bL4c2ZSSynlO0RExp29nuKF0ROagA+vOtQs8AcM3fOl9GEsLqBzqfEJb8MR/gqO412Nw9ubuHUWmkSi/9tth4V/A222h6azW9bc70ZJJGP8AEcZesYi4qXHUZywAMjUk6KZHWmL3Fr7ghrrGd4Cr91ANSva/BxiY/E6K67QR4lYSdjKSPU+8Xw/hty7dS2FKl2VZIIjMQJg9JmqSTW9D5M074bcNyYU3GEveYvJ1OUeFfqAW/wB9QHG3fvH0UW3vOO8EONboa4tyDpLFRGp0joa0IZMNhmIhUtW9PIIsKPsBWbcQw8uGygqzs5CyCTIAna4A/gaWAG8nXRd+pjnCsi97+B2bS3O8dICAIEadUBZ5fKyjOwBQFX6kyNJ4MZhiySqk2ldGliAT3pyi2VJh2EtLjfXaRHeQphrguWyQjlwy5SX8NwG2xAWJCwJ+Y6TBqLxbPctucoKAsyrlhw7XG1I1IBUGdZGu3Ovy76paMqw3jpbQrFrluOjLkZW+WIyyMwEDQCCNq5bjxAo8VcYuubkgWMpGXKiBVObUmPFJ3zbmDTbvt61D1votPaTJXjrxYueYA+pAqlGrd2mMWY6uo/M/pVRNXPgg+hpJoxz/AM50VUAdLsXcrBuh19Of2pFA0ASvFWU3BG2VfYESPrP2qPuNAj6/5/nOi7wjTfbTzAgfSm6ADoTRUYjWTsNPM/pzoGX/ALMcVD4S3hyfFbuMNdYRpZTry1YeQBrTOxOLt3LLJbWBZud2xB0LRnJHl4h9awHht823zhgsAgnfwnfTmfKtc+EfEA6Yi0qZFVkuIWMs5bMrM3nKrt1G+5hTqthvo0ehRAztSWYitBBF9Z6GD9v60raidQRqJ5+9MYW4Suu40NIDoA19aQrkuQIygAeeY6/lFLU0ldtNzLQdPr9hQwAplmHkPvXPiVLd0P41Y+iAt+YX60tFIuTvIj0jUD03+tLcEkAbcz5HlUsZkfxY4MFFjFA/OO6ZI2IL3Aw9ZYEeQrn+GnB2d2xTg5LYKJPNzoxHkqyvq56Vona/Dpcs3ENvvBbTMU6jy/i0BHpXDwS4i2URE7sKgGT93SY9evnNJv4A32vvKuFZWyEXDkhmKhgdSJUjU7bjUjfY5/j8S7PZHdo0EoRmyJbzaFGAZsrKq5df3SIOsyPbzjhF8W1ykWlWTAzq7eNsjEaZlKKfKq9b4nJjNqtrXvIAMCCx3OeNiNTJ1BOg1S8CWiau2lXDG5dUoYbSIJGZ4VrbgwHAcwCmg02MRODS5ctSqMYn5gGSWzsComVENlkcp10prjOJVLGRD8wU5tAWzRmVgqiMuUjfY/xmT7NIGYEkbhCxZ4VVbvJOXYkSskjKdRPIX7I3nK172MXmZoJzsYA1XfIMrGRsIiAennrzPcMVMcRw2V8yXfBbhwuc6sESQSGmSWktzDkcqieJWClxlJnWeXPXcaHn02paSJtqltIkO1Lf6aD+Ofopn86qZNWbtW/htjqW/Sq0wq58MUBefp/eipdrcf5ypNMAUBRUDQAdCjzDp96TQMOiFA0aj2oA6uHoGuIDqM0/StR7A4rJxDIfCt206gcpGVxHsrVkyNBEdasnD8dctMl5Cc1plca75SCR6ESD5GpfuxHornz1+1HXPhMUt22ly2QVuIrqd9GAIp5m0n89KoBL3Auh08+X9qYdBm+4PnBH607fWRy6fWmVwxXb5eQ6enlUNtMY5daFPUqfrGv+eVPgUy6EqBGxH5QfzNOXrgUZjoBuen0qkxDbmNelPL5VDYvii5YUHXmdPoJp/s/iGexbDqVdFCMGIJOXwhpBMhon311qJuXWkU5aQ/Zw8m4WEh9COo6VnOAwYW5dRb9w5LjKJA/CTuOZiB7GtNuswjKoPWWiPsZrMfiBbGCdryt/3w7ZQflugKCR/CSwPrNFzvQkZ3xrFG5iLrls57widIYAwIjyA51wMZJP7xgHprpBppLhgeQjSjY6adB0roXhno6Lb57igywAI19ydPU1J4G+tlHR4IMhfCrHxZVacy6yI22GbnFRvDbYkt009z/b86dx2qny1+lc9adcX4dPFuOT9Ju9xlBmynQgldVz2yNlVihhCCwG8AmelQuOvqzZkBAkiCIiPQxUehO+3trr9KJW9PXn71SxSvDPn8J/tW0C3/uH5VXQq82jblJqy9p08Ct+635j+1VpWjQDU9ftpTnwkKQDpPuI/U0k0oyf7D+g0pJpgChRUKBh0KMR50VABGl+mvnSAJrpCwfkEgjQhiTzPtp5b0CGVqXwNyM6nkpPrpUSzbnT2Gnt0roVtPyP+cqTQGu/CbjD3MKbL7WnyI86+IFwvt4h6FRWhIc2hjNoT5gc4/TkaxX4VcQC3bmGYgG5DoSQBnthpX3Uz/trVsNi3Dd3dEXFAYMpzSDIDQOsEEfaly09Br6TLN5c/wDDXJicWBtoA0E8jppEef5GuHifFcghXXN5nb23qt3uIPIJxOxkRbBA9AwOvvSq0gLvcxAG0yTl2O8fl50lb4PUj+U7bHlVMXj9u2JuXmMCNVRfvlEU4e29pRohOmgEa8xrsBz50fkn6HFkhgeEu9x9xbViMzAyROmUHfSNastq0ltYAgfnVa4Hx7E32ZjaUW4GWZWPcyW+lSuJxYUTcgHYQxMk7AAj2qccyltIurb6Z13MaqqWMhRzrGPi7xNbt+2qGVt5gOkwkwOWtXDjXadQCiakQImDp4pkaDXL56Hasn7T43vLg1kqNTykx9dANavlutISXWyHVqU7z7ferL2RvuriLaZPxMVGbTaDualuIdlrV5s1s92TqQBKk/yz4T6aeVS80y+LLWJtbRWMJbhABuxn+lN4sMkAgjMJBPykdQdmHmK0fh/BrNpCGPeMfmY6DlsBuJAMGaq3afB20QKsHLJU+BSsasAqrqpJG/P1msYyqrNMk0p0iqu5/wA/SmCaOZo1EV1tnMpLnxSzntuOcSPVTP6VTCavYNVPi+D7tyB8rSy+nMex/SokER4ajI0mk0tn18hoB5b6nmaoBuhRmioGChTxteHOCIzAakZiSCfl3jTU7aimlWaAHsOu7aEDkWy6+VFcby06TME66dKBK9CCOmo5zM6ztSAp3oEExpy2+lMmlA0DNb7F9j8CMLZxGNKtcvGbaM5VfExCKFBBusdDGu8R10y5hw2v4o356VnXwf4Uj2zjLj95dSbNtSSe4tjWADsWzGI5E9TWmuYH+bnSgRlnaOxiLN1m714c6EhW9vEDFQrpjbohGZh1yhfuIrZsVgbdwQ6hh51CdrrqYTAYi4gCkWyq/wA1yEX7tWDwvfvRSvXwym32QxdzxMi666kzB9zV+7K9nO6tL3tlWuDTNIOk6fNroOg5VnWDxt5UWMXeBMT42P0zN/kV2YntJjLSXEt4nV7meSVYhWUQqFpy7bDaPWtfxpaI/K66NS4lxG3ZBFy4qE5YC7wIJEakzqOW+9Z52q7X/gtqwFwyeWYjKP0GmtVXgDO+LTv3Yi63dlmYkhnBCn0DFfLWpHjvDGH+m28kAxsw/wDgiottPT8NISK7j+JXHkMxj90SI9evvUap11pV1CrENuDBputEkl0DrbLFwjEwYgGORMKPXrVos4wwIM+Y8K+3M86z/D4nIZIDRsDt7jnTmI4hcc+JjHQGBXPeDkzpnPKktGO7UlD3dsAsGMsdRMcutVzFYp20di2pJnmWiSfoB6AVxbEe1Ldta1nHMeGLyO/RLGkmjJoqokvC1EdorgyIpiSxPoAIP5ipZTVe7SPLoOiz9T/ahGSIgrRUAaI1RQoGk05atMxCqCSTAA1JPkKnj2MxuTOLJYATAIzR/LMk+QpOkumxqW1tIropU1fOzfw/uuou3mNo6Mix4pBBBf8Ad9N+o0g2P4gdlcO2GGKDpacBRLBV7wtybLpmnoNIPSp5pvSHwf0x8mgDGxohQNWSAmurBYK5dbLbRnboBt6nYe9clduAxNy2S1tyjeXMTOvKjv4C19NF7AcJxOCuG81xEDDK9nRjcXlJBhSDsRPPrWsYLGW7y57TBlDEGOTDQqRyI6elY32T4paVH7y5N9j4mbUleSpppzkf4OP9ov2rtx8PeuWmZiTlaFYj95T4W96nHN1TT+DyXEpNfTeqz74y4vJgrdvndvKI/hQFj98n1qnf/XvFrXzOrjq1pNvVAJqB7Udq7+Pe0byovdAgKgIWWILHxEmTC/StGn9ITTW0dllFyroRtz9POmuMsveoo2CSdQDuwHpowpeDIOUeYH3FcV9gblx9JbbyWYQa88qit6+HJHrCfEAAqigSpAhgSCYg6cwQKvuLdbty1euQqtZtXnLGFXOoLanbxZvrVANwDdyfIbf+MUxxfidx1W2SyoqIuWdGyKFBjppMdTWGbHy7OjFWuhPaPF27uIdrQITQAkQWjTNHKfyiomhR1KWjUAFKUUtEpwWxVqSXQ3RE093Q86ZbfSlSHLCJpM0KFSWXtBrVV4883m/hAH2n9atOaqZjbma47dWP56VMmaOelE0VEaoovnw+wdszdIGZTl15HTb7VqGFuVinZLips3CC3hfKCsEyZjTzg+9aYeOWrY+bOYnIplo30HP/AOa4s0tWdmJ8p6JrFYrIyzoraTyB5fWs2+JOLsnu0thS5JZyNxBI1GwJM/Sujinai7c8dsjuVOqmM4jr0HpVL49je9vM+h0Akc9OZ5kTE+Qq8Mt1snK9SRtChQrqOUFdeGeK5BTyKOdVJNeHXbUG4gnd1Ee48qsrXCWYjUknTYnX1g1BcFAW4GDElVdo5SFMfQwfapm0/t6RFb4vWzkzvxDj6brH8un9qi79hC0z9QKlHaB8zD0G9ReIxKj5m/5JP3FaVozx730dOHYCOZEnTyBNMCwoUndi2p35bDqBt7VxpjFzEAZp0gSBEgmZHl967EvgiIEDYVnvbNeLlBARz/4gTUXxMajSPUyfepM3DsNKjuJ7Db7fpSyeFYv6I2joqVGlYHULS5AoG8eUCm6FPbFpCzcPWk0VCk2NB0KKjpFF5c5VJ6An6VSUts5hVLHoASfoKtvErkWrn8pH10pn4Z33TimFyMVzPlaOakGQfIwKUmaK1dwrqJa26jqVIH1IpmvRvaDtFes8YwmFkNYxFrK9sqp8TNcAYGJB0URMROnOqb22+HfecTt2sIqW0v2muuIhLWRgrsFHI5khR+JuQ2oZk9tyCCCQQZBGhBG0VN2eOL3AR1JuI+a3cWAQDqQ3UeVXDD/DbD4kYi3g8Y1zEYVylxLtvIrMJHhIMqCysM2u3vXB2R+Hf7ZZvXbmIWybLXLbWyhlWRZ8bkwo6kBtAaVSq9Lm3PhUOIcSa6QcoUwQxH4vM+1cl6w6EB0ZSQGAYFSVOxE7g9av/GPh3at8NOOw+LGICatCZUYZ+7bISZBU9d4pq3jf+uY/DWr9w2QtoWwwUO9xk8TyVCqrN4iDGVY2PMUqVpCqnT2ygUYE6Dc1efitwfC4XFJbwxykWlDWghUIFVQjF/xs/iJO8jXepT4I4aw+IvlyoxC2x3BMFlzZhcdA0guPBy2J5E0xGc4nB3Lcd5bdJ1GdWUn0zDWmkeK3ftp/1XD8Ov22a3i0IIOIUC3et2jPeZ7UZT4fDmUyASSOdV3BdjsCnBnxdy8S14W2F3uixtFbgU27aTm8TSheddDtuIRROD3I7w5s024iIAlkB+xI96kbcdBU9wbsklvBpi8bfaxbxBRUVEDtlc51dzplBC5o10130rs452LfC3rKd6rWr7hEulT4WOwdVnroRvrtFbxSOXLDfZVsRtoYqFxd0jQF/rp/+ta2/wAPrAvJh7mMIu3ELqotxmykzBJIgRtM71l3azhVzCYm5h7hBZCIYaKysAysJ6g7ciCOVFWn4PFja9IvDWbhOcI5GviCkjz1ArotZ20UFjEwoJMe3Lb61sfwWxmXA5LjGLmLuWrSnbSyLrAeRi4fUVJ9hOzCYDFYhW+e6bncjeMNba2Z8iWuW1PXu6zmtI2qdsw5EIMFQG5hiQRz2Nc/ENh/Wf0rRbvZ27jeKYwM8Lbuuz3GAbLbUlbYCwJbKoAE7KT6xvaXsan7CuPwd5r9j8YZMjr4shMDcBtCI03kiqp9ESv22Z/bRmMKCxPIAk/QUu5YcEKyMGMQCCCZ0EA6nWpvsDfdOJYQoxUm+ikjmrnKw9CpI962rtrwleI4f9owbf8A3eCu3O7I0bvLLw9s+cqGWeeXkxrI32eeLtllMOrKT+8CPzputT7b8HxHEeNHCo3yWrZlvlt28iM5ganxNtzLDam8P8NsNiP2i1hMaz4nCuUuJct5EZhKnKQZC5lYZtdvMEgjMKFXjB/Du8+Cv4s3beezmBsqczK1th3guna2yrmOXXltUmfhgltMPdxGOspavTmuL4kBYKbS2mJ/1CwznNoAF58wZmlHU72x4JbwWKfDJdN7uwudiuSGPiygSZhSknrPSoGkPZa+NGLLeZUfcU18PWROI2Lly7btJabvGa42VYUbA/vGdBSO0dz/AE1E7t+QP9arlKSUb7xniHDH4jY4g/ELGTDWiotqc7s8uQYWTAzTAEyKgsJ8T7J4ubzhkwpsmwrESy+MP3jASYJEQOUdKx+hVAbdwzGYHh+NxuPGOsXLN9Cy2rVwPeNx2FxgUG3ikAnSG1iDTPYPj+HOExzXsRYs3MZevuqPcAK94sDNI2k79KxehQBr3D+J4Zezr4U4mwLzW3YW+8GbW4bgWN80aR1qh9gMdbscRw126wRFc5mOy5lZQT0EkSeVV5lgxRUDNB+L7Ye5ixiLOKtXs6opS2c+QIsSXWV1PKZpfw3/AOktbu28bcyX3YZLjHuxbVYKm1dHyPm1JMTAGomc7oGkBtXEO0qYLCYmy3E14i122bdhQFdkDBlZrl1WOYAEaEyY03Mc3D8fhL/Z5cJcxlmxcX5g5lxlvm5pbHieViMoO9ZMzUgb00I2QcXw3EuE28O1+1h8RYFoRebu0Zra5JDHTKy5ttQdxXR2g49af9gwdq4LvdXsOXur8hZMqAKfxTJJO23nGU8PbwP5lP8A3VLcPxTW3R0y5kYMuYBhI2kHQ1tMnNko17tQlq3xHCYm7ibFlbNtyy3HC3GBzhcin5hLGY6edYt2/wCOrjcdcvWwRb8KJIglUESRykyY5AipLtV2nv4tVF422yGQy21VtjpmGpXU6VSXOtRS0jaGn2jT+F461h+H8PK4rDm5axi4i5bFybmW4ckZY+YIxzTtrvVvs9o8O/GHvnF2VsWsKtlS1wAO1xhcY2zs0FQG15CsBQwQfOpwGiVsVtya3wntLhcPxPF5r1prOLFp1uK2ZEZAwK3D+GZY9B4etVv4j3bTLcY8WOIU6WcNZCZEkggXDbbJlVZHy5jp5zS1GtcfFdvenU9bJi+9HT2HKDH4Z7ly3aS3dW4z3GyqBb8ZE9TEDzIq6cC7WLgOMYgG8l3CYq8zs1tsyJ3jF0eY3XNlaOU7wKy2hWRua+/bPDYfj13Ed4r4e7at2jcTxhfBbObw7gMsEDXU9IqQ4disDgcfi+IjH2Hs37bMLVu5nvG5cZXYZB/EGiY+fWIrEBQpgaf8Ou2qJj8V+0MtuxjHuXDnPgS4WZxJOkFSynqctWjA9suHNZxFi4bYtYJ7ZwyZtbq4dVa3kJPjY3LbeodQdzWEUKA0dGOxT3bly65lrjs7HqzEsfua56FCkMm+0X/4/wDd/wC2oQ0KFKSV4ChQoVQwUDQoUgHL/wAzeppuhQoAFChQoAeNBaFCmvRMleH/ACN6p+T13W/0/WjoV0QcmT04OI8/f9ahTQoVnkNsPgRqdt7ew/ShQoxjzfB63tUfxTYe/wClChV1/JlH9kWKOhQrnOtBiiNChQAKFChQAKBoUKAP/9k=",
+    "play": "https://music.youtube.com/watch?v=CczcMarUoVk&si=Xge3Uxm9hJOeDv18",
+    "title": "Don't Stop Me Now",
+    "singer": "Queen",
+    "genre": "Rock",
+    "emotion": "embarrassment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/ef/ABBA_-_Dancing_Queen.png",
+    "play": "https://music.youtube.com/watch?v=YkLLcIKhJ64&si=CPkq1CH_i0xnF0va",
+    "title": "Dancing Queen",
+    "singer": "ABBA",
+    "genre": "Disco, Pop",
+    "emotion": "embarrassment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d1/Mr.-Brightside.jpg",
+    "play": "https://music.youtube.com/watch?v=m2zUrruKjDQ&si=hrYMp7wvSaEs_DuA",
+    "title": "Mr. Brightside",
+    "singer": "The Killers",
+    "genre": "Indie Rock",
+    "emotion": "embarrassment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Walkingonsunshine.jpg",
+    "play": "https://music.youtube.com/watch?v=HmR2IZjuMVc&si=ShKQGP08bZsWL_JS",
+    "title": "Walking on Sunshine",
+    "singer": "Katrina and the Waves",
+    "genre": "Pop Rock",
+    "emotion": "embarrassment"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000060591670-7ql101-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=6nJuUdc2qNg&si=lIcm-hDuTdFs62Fs",
+    "title": "Roar",
+    "singer": "Katy Perry",
+    "genre": "Pop",
+    "emotion": "embarrassment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Martha-vandellas-dancing-street.jpg",
+    "play": "https://music.youtube.com/watch?v=3arKnw2fpr4&si=XNfDCCaiwbadjvyZ",
+    "title": "Dancing in the Street",
+    "singer": "Martha and the Vandellas",
+    "genre": "R&B, Soul",
+    "emotion": "embarrassment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/The_Proclaimers_500_Miles.jpg",
+    "play": "https://music.youtube.com/watch?v=oUv0NbjbGzQ&si=uHsr6EeISRv83992",
+    "title": "I'm Gonna Be (500 Miles)",
+    "singer": "The Proclaimers",
+    "genre": "Rock",
+    "emotion": "embarrassment"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/DontFearTheReaper.jpg",
+    "play": "https://music.youtube.com/watch?v=FS8p_F0Stog&si=baf5bWoQmfrpJ1oV",
+    "title": "Don't Fear the Reaper",
+    "singer": "Blue Öyster Cult",
+    "genre": "Rock",
+    "emotion": "fear"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Survivortiger.jpg",
+    "play": "https://music.youtube.com/watch?v=S-LO6dctBms&si=aORXDJnFdXdbrvks",
+    "title": "Eye of the Tiger",
+    "singer": "Survivor",
+    "genre": "Rock",
+    "emotion": "fear"
+  },
+  {
+    "image": "https://www.udiscovermusic.com/wp-content/uploads/2020/06/GloriaG_IWillSu_CoverAr_3000DPI300RGB1000348311-scaled.jpg",
+    "play": "https://music.youtube.com/watch?v=nXMPx4DDVWM&si=g7zLdfoL17GTVt21",
+    "title": "I Will Survive",
+    "singer": "Gloria Gaynor",
+    "genre": "Disco",
+    "emotion": "fear"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/ac/Acdc_Highway_to_Hell.JPG",
+    "play": "https://music.youtube.com/watch?v=ikFFVfObwss&si=aWriUzS5R7_0-AF-",
+    "title": "Highway to Hell",
+    "singer": "AC/DC",
+    "genre": "Hard Rock",
+    "emotion": "fear"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+    "play": "https://music.youtube.com/watch?v=Z85lxckrtzg&si=PhMfCUzX7-d7cHej",
+    "title": "Thriller",
+    "singer": "Michael Jackson",
+    "genre": "Pop, Funk",
+    "emotion": "fear"
+  },
+  {
+    "image": "data:image/jpeg;base64,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",
+    "play": "https://music.youtube.com/watch?v=CczcMarUoVk&si=S0sf5qVNp-8OHFv6",
+    "title": "Don't Stop Me Now",
+    "singer": "Queen",
+    "genre": "Rock",
+    "emotion": "fear"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Born_to_Run_%28Front_Cover%29.jpg/220px-Born_to_Run_%28Front_Cover%29.jpg",
+    "play": "https://music.youtube.com/watch?v=Wu4_zVxmufY&si=mEwDg1zf3p4AjaxT",
+    "title": "Born to Run",
+    "singer": "Bruce Springsteen",
+    "genre": "Rock",
+    "emotion": "fear"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/The_Final_Countdown_single.png/220px-The_Final_Countdown_single.png",
+    "play": "https://music.youtube.com/watch?v=4hj8M8XZpis&si=C_mYWShHGf6ill-0",
+    "title": "The Final Countdown",
+    "singer": "Europe",
+    "genre": "Hard Rock",
+    "emotion": "fear"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BYjUxNWNkMWEtZjkzNi00YjgzLTg0MmQtMjE1YzAyMmU0NjlmXkEyXkFqcGdeQXVyNDE4OTY5NzI@._V1_.jpg",
+    "play": "https://music.youtube.com/watch?v=SP9t2Iq_zQ8&si=DZme6PwestMFZ0h9",
+    "title": "You Shook Me All Night Long",
+    "singer": "AC/DC",
+    "genre": "Hard Rock",
+    "emotion": "fear"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71+afw379hL._AC_UF1000,1000_QL80_.jpg",
+    "play": "https://music.youtube.com/watch?v=KLRO4W9pNrQ&si=XykzAroloaX40L6D",
+    "title": "Runnin' with the Devil",
+    "singer": "Van Halen",
+    "genre": "Hard Rock",
+    "emotion": "fear"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000258189284-6xuusb-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=XZuM4zFg-60&si=0t8fcgNIgr_Ib0O_",
+    "title": "Enter Sandman",
+    "singer": "Metallica",
+    "genre": "Heavy Metal",
+    "emotion": "fear"
+  },
+  {
+    "image": "https://cdns-images.dzcdn.net/images/cover/8bfe7b3b0985d9ff0751090fb2b6f73f/500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=0CNPR2qNzxk&si=H5dudDmEJwE2nnMk",
+    "title": "Welcome to the Jungle",
+    "singer": "Guns N' Roses",
+    "genre": "Hard Rock",
+    "emotion": "fear"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/32/Smooth_criminal_video.jpg",
+    "play": "https://music.youtube.com/watch?v=XzNWRmqibNE&si=-eMcy_bKCIX8G54_",
+    "title": "Smooth Criminal",
+    "singer": "Michael Jackson",
+    "genre": "Pop, R&B",
+    "emotion": "fear"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE0ZTVlZTktZjY3My00NDhiLThjZjMtMDlmOGVlNjY0ZjAzXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg",
+    "play": "https://music.youtube.com/watch?v=YBdyc1WDlBQ&si=VIVujz8MsBVYZ_0T",
+    "title": "Living on a Prayer",
+    "singer": "Bon Jovi",
+    "genre": "Rock",
+    "emotion": "fear"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71IIR31mkGL._UF1000,1000_QL80_.jpg",
+    "play": "https://music.youtube.com/watch?v=tKJwvQfraY8&si=VocTGLDAE-7WYKTY",
+    "title": "Bad Moon Rising",
+    "singer": "Creedence Clearwater Revival",
+    "genre": "Rock",
+    "emotion": "fear"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Pharrell_Williams_-_Happy.jpg/220px-Pharrell_Williams_-_Happy.jpg",
+    "play": "https://music.youtube.com/watch?v=dJqxQzxLbHM&si=1QP36cz6pta7lLCG",
+    "title": "Happy",
+    "singer": "Pharrell Williams",
+    "genre": "Pop, Funk",
+    "emotion": "disgust"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Don%27t_Stop_Believin%27.jpg/220px-Don%27t_Stop_Believin%27.jpg",
+    "play": "https://music.youtube.com/watch?v=PIFUWHvSixw&si=TuPhd30S0pnOLBbR",
+    "title": "Don't Stop Believin'",
+    "singer": "Journey",
+    "genre": "Rock",
+    "emotion": "disgust"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000136214158-87a33w-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=tYvFa2ARD24&si=ev5oLuOjimdfiYKN",
+    "title": "Uptown Funk",
+    "singer": "Mark Ronson ft. Bruno Mars",
+    "genre": "Funk, R&B",
+    "emotion": "disgust"
+  },
+  {
+    "image": "https://www.udiscovermusic.com/wp-content/uploads/2020/06/GloriaG_IWillSu_CoverAr_3000DPI300RGB1000348311-scaled.jpg",
+    "play": "https://music.youtube.com/watch?v=nXMPx4DDVWM&si=T1otqx4Bv8NUxZFk",
+    "title": "I Will Survive",
+    "singer": "Gloria Gaynor",
+    "genre": "Disco",
+    "emotion": "disgust"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a8/I_Want_To_Break_Free.jpg",
+    "play": "https://music.youtube.com/watch?v=wIqa9uVnXCQ&si=fJTi85MzxHJ-0TNN",
+    "title": "I Want to Break Free",
+    "singer": "Queen",
+    "genre": "Rock",
+    "emotion": "disgust"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Survivortiger.jpg",
+    "play": "https://music.youtube.com/watch?v=S-LO6dctBms&si=Tokx_UN7y5g2NGZi",
+    "title": "Eye of the Tiger",
+    "singer": "Survivor",
+    "genre": "Rock",
+    "emotion": "disgust"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE0ZTVlZTktZjY3My00NDhiLThjZjMtMDlmOGVlNjY0ZjAzXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg",
+    "play": "https://music.youtube.com/watch?v=YBdyc1WDlBQ&si=qYLvToMvTC8zJXA4",
+    "title": "Livin' on a Prayer",
+    "singer": "Bon Jovi",
+    "genre": "Rock",
+    "emotion": "disgust"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/ef/ABBA_-_Dancing_Queen.png",
+    "play": "https://music.youtube.com/watch?v=YkLLcIKhJ64&si=lgWX9dXr0Ndil6jw",
+    "title": "Dancing Queen",
+    "singer": "ABBA",
+    "genre": "Disco, Pop",
+    "emotion": "disgust"
+  },
+  {
+    "image": "https://i1.sndcdn.com/artworks-000060591670-7ql101-t500x500.jpg",
+    "play": "https://music.youtube.com/watch?v=6nJuUdc2qNg&si=1aXBOW9N2WAoS_4S",
+    "title": "Roar",
+    "singer": "Katy Perry",
+    "genre": "Pop",
+    "emotion": "disgust"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Martha-vandellas-dancing-street.jpg",
+    "play": "https://music.youtube.com/watch?v=3arKnw2fpr4&si=A7vy6XI9OiPcmIVh",
+    "title": "Dancing in the Street",
+    "singer": "Martha and the Vandellas",
+    "genre": "R&B, Soul",
+    "emotion": "disgust"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/418SAWRGFHL._UF1000,1000_QL80_.jpg",
+    "play": "https://music.youtube.com/watch?v=67CN8FOCc84&si=c3EiqX6y83ZwZ6XN",
+    "title": "Dancing in the Moonlight",
+    "singer": "Toploader",
+    "genre": "Pop Rock",
+    "emotion": "disgust"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Walkingonsunshine.jpg",
+    "play": "https://music.youtube.com/watch?v=HmR2IZjuMVc&si=1jf7YYmlZt2NT6q1",
+    "title": "Walking on Sunshine",
+    "singer": "Katrina and the Waves",
+    "genre": "Pop Rock",
+    "emotion": "disgust"
+  },
+  {
+    "image": "https://images.genius.com/8b24511580679d7a8e4f500a4df56ba9.1000x1000x1.jpg",
+    "play": "https://music.youtube.com/watch?v=w0kLkDCoRXc&si=d9i0w8RyVJuf4pZG",
+    "title": "Build Me Up Buttercup",
+    "singer": "The Foundations",
+    "genre": "Pop, Soul",
+    "emotion": "disgust"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b0/The_Monkees_single_02_I%27m_a_Believer.jpg",
+    "play": "https://music.youtube.com/watch?v=G5EuEF05G2M&si=YA5R2ptOabvFjJ5D",
+    "title": "I'm a Believer",
+    "singer": "The Monkees",
+    "genre": "Pop Rock",
+    "emotion": "disgust"
+  }
+]

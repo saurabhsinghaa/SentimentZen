@@ -1,0 +1,136 @@
+.zen-chat-container {
+    position: fixed;
+    right: 20px;
+    bottom: 40px;
+    width: 500px; /* Keeping the original width */
+    height: 700px; /* Set a fixed height */
+    border: 1px solid #ccc;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+    box-shadow: 0 2px 5px rgba(111, 0, 0, 0.9);
+    transition: transform 0.3s ease-in-out;
+    overflow: hidden;
+    z-index: 99;
+    animation: slideInOutAnimation 0.5s ease forwards; /* Apply the slide-down animation */
+    display: flex;
+    flex-direction: column;
+}
+.zen-heading {
+    padding: 10px;
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    background-color: #333;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+@keyframes slideInOutAnimation {
+    from {
+        transform: translateX(100%); /* Start with the container off-screen to the right */
+    }
+    to {
+        transform: translateX(0); /* Slide the container into view */
+    }
+}
+
+.zen-chat-container.visible {
+    transform: translateX(-300px); /* Slide in from the right */
+}
+
+.zen-chat-content {
+    display: none;
+}
+
+.zen-chat-container.visible .zen-chat-content {
+    display: block;
+}
+
+.zen-chat-history {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto; /* Make the messages container scrollable */
+    display: flex;
+    flex-direction: column;
+}
+
+.zen-chat-message {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.zen-chat-message p {
+    margin: 0;
+    padding: 10px 15px;
+    border-radius: 20px;
+    max-width: 80%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+    word-wrap: break-word;
+}
+
+p.user-message {
+    background-color: #DCF8C6; /* Green user bubble color */
+    color: #000;
+    align-self: flex-start;
+    text-align: left;
+    /* margin-bottom: 5px; */
+}
+
+p.bot-message {
+    background-color: #007bff; /* Blue bot bubble color */
+    color: #fff;
+    align-self: flex-end;
+    margin-top: 14px;
+    margin-bottom: 5px;
+    text-align: justify;
+}
+
+.zen-input-container {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-top: 1px solid #020202;
+    background-color: #030303;
+}
+
+.zen-input-container input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #0c0c0c;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.zen-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.zen-button:hover {
+    background-color: #0056b3;
+}
+
+.zen-response-container, .zen-chat-history {
+    color: #fff; /* Set font color to white */
+    font-family: Arial, sans-serif; /* Use a fallback font */
+}
+
+.zen-response-container {
+    display: flex;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 2px;
+    padding-left: 10px;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9); /* Add a subtle shadow */
+    font-size: 20px;
+    background-color: #2f302f; /* Set background color to a green shade */
+}
