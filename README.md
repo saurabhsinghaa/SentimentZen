@@ -16,7 +16,7 @@ SentimentZen is a project that helps users identify their emotions based on thei
 1. Clone the repository:
 
    ```
-   git clone https://github.com/mishra1909/SentimentZen.git
+   git clone https://github.com/saurabhsinghaa/SentimentZen.git
    ```
 
 2. Install dependencies:
