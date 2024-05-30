@@ -1,63 +1,61 @@
+
 # SentimentZen
 
-SentimentZen is a project that helps users identify their emotions based on their input text and provides recommendations tailored to their emotional state. Whether you're feeling happy, sad, angry, or any other emotion, SentimentZen is here to assist you in finding books, music, movies, and relaxation techniques to enhance your mood.
+SentimentZen utilizes emotion analysis to understand a user's current emotional state based on their input.  Leveraging this data, the platform offers a suite of features to guide users towards a more positive emotional state.
 
 ## Features
 
-- **Emotion Detection**: Analyze user input to identify the underlying emotion.
-- **Recommendations**: Provide personalized recommendations based on the user's emotional state.
-- **Book Suggestions**: Offer book recommendations suitable for the user's mood.
-- **Music Selection**: Suggest music playlists or songs to match the user's emotions.
-- **Movie Recommendations**: Recommend movies or TV shows to watch based on the user's current mood.
-- **Mood Enhancement**: Provide yoga and meditation techniques to uplift the user's mood.
+- **Input Options:** Users can input text directly or use speech input for analysis.
+- **Emotion Analysis:** Utilizes the RoBERTa model to analyze the input and detect emotions across 28 different labels.
+- **Content Recommendations:** Recommends books, movies, music, and yoga/meditation practices tailored to the user's emotional needs.
+- **Interactive Visualization:** Displays the emotional analysis results using a bar chart for easy visualization.
+- **Dr. Zen:** An AI-powered therapist chatbot offering personalized support, practical advice, and empathetic listening.
+
+
+## Tech Stack
+
+**React:** Frontend framework for building the user interface.
+
+**RoBERTa Model:** Pre-trained transformer model from Hugging Face for emotion analysis.
+
+**Chart.js:** JavaScript library for creating interactive charts.
+
+**SpeechRecognition API:** Enables speech input functionality.
+
+**Google Gemini API:** Powering the Dr. Zen feature which is an AI Therapist chatbot.
+
+**Hugging Face Datasets:** Provides the emotion dataset for training and analysis.
+
 
 ## Getting Started
 
-1. Clone the repository:
+1. **Clone the repository**
 
-   ```
-   git clone https://github.com/saurabhsinghaa/SentimentZen.git
-   ```
+```bash
+git clone https://github.com/your-username/sentimentzen.git
+cd sentimentzen
+```
+2. **Install dependencies**
+```bash
+npm install
+```
 
-2. Install dependencies:
+3. **Start the Development Server**
 
-   ```
-   npm install
-   ```
+```bash
+npm start
+```
 
-3. Start the development server:
+4. **Start the Development Server**
 
-   ```
-   npm start
-   ```
+Open your web browser and navigate to http://localhost:3000 to access the SentimentZen application.
+    
+## Screenshots
 
-4. Open your web browser and navigate to `http://localhost:3000` to access SentimentZen.
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-## Usage
 
-1. Enter your text in the input box.
-2. Click the "Analyze" button to identify the emotion associated with your text.
-3. Explore the recommendations provided based on your emotional state.
-4. Choose books, music, movies, or relaxation techniques to improve your mood.
+## Authors
 
-## Technologies Used
+- [@saurabhsinghaa](https://www.github.com/saurabhsinghaa)
 
-- React.js: Frontend library for building user interfaces.
-- Natural Language Processing (NLP): Used for analyzing text and identifying emotions.
-- External APIs: Integration with book, music, and movie databases for recommendations.
-- Yoga and Meditation Techniques: Curated resources for mood enhancement.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to SentimentZen, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/new-feature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/new-feature`).
-6. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
