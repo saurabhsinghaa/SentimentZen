@@ -52,7 +52,12 @@ Open your web browser and navigate to http://localhost:3000 to access the Sentim
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./screenshots/one.png)
+![App Screenshot](./screenshots/two.png)
+![App Screenshot](./screenshots/three.png)
+![App Screenshot](./screenshots/four.png)
+![App Screenshot](./screenshots/five.png)
+![App Screenshot](./screenshots/six.png)
 
 
 ## Authors
