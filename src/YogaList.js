@@ -10,7 +10,7 @@ export default function YogaList(props) {
     return (
         <div className='main'>
             <img className='image' src={image} />
-            <div>
+            <div className='listFont'>
                 <h3>{yoga}</h3>
                 <p>{description}</p>
                 <button className='bttn' onClick={handleButtonClick}>

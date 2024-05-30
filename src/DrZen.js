@@ -117,7 +117,7 @@ const DrZen = () => {
 
     return (
         <div className="zen-chat-container">
-            <div className="zen-heading">Your Personal Wellness Coach</div>
+            <div className="zen-heading listFont">Dr. Zen - AI Therapist Chatbot</div>
 
             <div className="zen-chat-history">
                 {chatHistory.map((message, index) => (

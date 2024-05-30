@@ -9,7 +9,7 @@ export default function SongList(props) {
     return (
         <div className='main'>
             <img className='image' src={image} />
-            <div>
+            <div className='listFont'>
                 <h3>{title}</h3>
                 <p>Singer: {singer}</p>
                 <p>Genre: {genre}</p>

@@ -8,7 +8,7 @@ export default function Songs(props) {
     const filteredSongs = songData.filter(song => song.emotion === emotionLabel);
     return (
         <>
-            <h2>Feeling {emotionLabel} - Here are some songs</h2>
+            <h2 className='emot'>Feeling {emotionLabel} - Here are some songs</h2>
             {filteredSongs.map(song => (
                 <SongList image={song.image} title={song.title} singer={song.singer} genre={song.genre} play={song.play} />
             ))}

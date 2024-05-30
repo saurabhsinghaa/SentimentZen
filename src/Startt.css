@@ -196,7 +196,8 @@ body {
 }
 
 #firstemotionText {
-    font-family: serif;
+    /* font-family: serif; */
+    font-family: 'Roboto', serif;
     font-size: 50px;
     font-weight: bold;
     color: rgba(2, 11, 11, 1);
@@ -209,6 +210,7 @@ body {
     margin-right:350px;
     border-radius: 30px;
     padding: 10px;
+    /* text-transform: capitalize; */
 }
 
 
@@ -216,6 +218,7 @@ body {
 #emotionText {
     font-weight:bold;
     font-size: 30px; /* Adjust the font size as needed */
+    text-transform: uppercase;
 }
 
 .button {
@@ -262,7 +265,7 @@ body {
     text-transform: uppercase;
     color: yellow;
 }
-//dr zen button css
+/* //dr zen button css */
 .butzen {
     background-color: transparent;
     border: 2px solid #f11; /* Add border for a visible button */

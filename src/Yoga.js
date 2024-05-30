@@ -8,7 +8,7 @@ export default function Yoga(props) {
     const filteredYoga = yogaData.filter(yog => yog.emotion === emotionLabel);
     return (
       <>
-        <h2>Feeling {emotionLabel} - Here are some Yoga and Meditation</h2>
+        <h2 className='emot'>Feeling {emotionLabel} - Here are some Yoga and Meditation</h2>
         {filteredYoga.map(yog => (
           <YogaList yoga={yog.Yoga} description={yog.Description} video={yog.Video} />
         ))}

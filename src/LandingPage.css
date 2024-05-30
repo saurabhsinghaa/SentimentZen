@@ -78,7 +78,7 @@
     transition: opacity 0.3s ease-in-out; /* Add transition for opacity */
   }
   .senthead {
-    font-family: 'Roboto', serif;
+    /* font-family: 'Roboto', serif; */
     text-align: center;
     /* padding-bottom: 10px; */
     font-size: 100px;

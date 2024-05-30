@@ -9,7 +9,7 @@ export default function BookList(props) {
     return (
         <div className='main'>
             <img className='image' src={image} />
-            <div>
+            <div className='listFont'>
                 <h3>{title}</h3>
                 <p>{author}</p>
                 <button className='bttn' onClick={handleButtonClick}>

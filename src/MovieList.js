@@ -9,7 +9,7 @@ export default function BookList(props) {
     return (
         <div className='main'>
             <img className='image' src={image} alt='movie'/>
-            <div>
+            <div className='listFont'>
                 <h3>{movie_title}</h3>
                 <p>{year_of_release}</p>
                 <p>IMDB: {imdb_rating}</p>

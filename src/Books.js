@@ -8,7 +8,7 @@ export default function Books(props) {
   const filteredSongs = bookData.filter(book => book.emotion === emotionLabel);
   return (
     <>
-      <h2>Feeling {emotionLabel} - Here are some books</h2>
+      <h2 className='emot'>Feeling {emotionLabel} - Here are some books</h2>
       {filteredSongs.map(book => (
         <BookList title={book.title} author={book.author} image={book.image} read_now={book.book_link} />
       ))}
