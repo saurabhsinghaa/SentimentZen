@@ -32,7 +32,7 @@ SentimentZen utilizes emotion analysis to understand a user's current emotional 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/sentimentzen.git
+git clone https://github.com/saurabhsinghaa/SentimentZen.git
 cd sentimentzen
 ```
 2. **Install dependencies**
